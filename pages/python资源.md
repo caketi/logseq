@@ -13,6 +13,6 @@ permalink: python%E8%B5%84%E6%BA%90
 ## 炫酷的库---https://github.com/vinta/awesome-python
 ## python算法-https://github.com/nickmccullum/algorithmic-trading-python
 ## ML-https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
-## python博主
+## python博主-https://www.youtube.com/c/YCubed/videos
 ##
 ##
