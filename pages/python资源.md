@@ -1,8 +1,8 @@
 ---
 title: python资源
-published: true
-
+published: false
 ---
+
 ## https://twitter.com/GaganGulyani/status/1355563526992113668?s=20
 ## https://github.com/kying18/beginner-projects
 ## https://www.hackinscience.org/
