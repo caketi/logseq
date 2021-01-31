@@ -1,6 +1,6 @@
 ---
 title: python学习
-published: false
+published: true
 permalink: python%E5%AD%A6%E4%B9%A0
 ---
 
