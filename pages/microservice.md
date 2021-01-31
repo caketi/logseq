@@ -2,6 +2,7 @@
 title: microservice
 published: true
 permalink: microservice
+public: true
 ---
 
 ## **What are Microservices?**
