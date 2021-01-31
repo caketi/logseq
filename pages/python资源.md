@@ -9,7 +9,7 @@ permalink: python%E8%B5%84%E6%BA%90
 ## https://www.hackinscience.org/
 ## https://github.com/kying18/guess-the-number
 ## https://github.com/kying18/tic-tac-toe
-##
+## https://github.com/kying18/hangman
 ##
 ##
 ##
