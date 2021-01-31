@@ -1,1 +1,1 @@
-## 
+## [[bug bounty tips]]
