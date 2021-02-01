@@ -6,3 +6,4 @@
 ## [[javascript-tips]]
 ## [[blog-收集]]
 ## [[css-tips]]
+## [[https://danielmiessler.com/study/infosec_interview_questions/]]
