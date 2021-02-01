@@ -30,8 +30,7 @@
  ;; Example for Org mode users: "** [[Work]]\n***\n** [[Family]]\n***\n
  :default-templates
  {:journals ""
-  :page "overview"
-  :sidebar "Contents"
+
   }
 
  ;; The app will show those queries in today's journal page,
