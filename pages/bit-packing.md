@@ -16,4 +16,4 @@ and & you get
 00000000000101011
 
 I see. that's cool. what are you using it for?
-##
+## packing less-than-32-bit integers into a single 32 bit integer!
