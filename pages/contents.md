@@ -8,3 +8,4 @@
 ## [[css-tips]]
 ## [[https://danielmiessler.com/study/infosec_interview_questions/]]
 ## [[HTML-tips]]
+## [[LOL]]
