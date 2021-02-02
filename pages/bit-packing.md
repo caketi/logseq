@@ -16,6 +16,7 @@ and & you get
 00000000000101011
 
 I see. that's cool. what are you using it for?
+## 变成32位吗？
 ## packing less-than-32-bit integers into a single 32 bit integer!
 ## ![2021_02_02_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef47206b7cd1-d511-4668-8076-9a09a68662a02021_02_02_%E5%9B%BE%E7%89%87.png?Expires=4765839745&Signature=E8SkNoDkCOxtkXfC1j-hlAJRXq64a3wxakbddXuzXtkD75nrK7jBcrIvcQ-~xWdQRBIUbjujsGpvlLqQiHf~XTVpZSRCLgH9SXAyT2mAafjb0A~8CZdRiCiFfNwXBEAQQ5RMXgUrJ9jc318eY-aD7VAuY8uW1beBMY5YuwkM2ezrSm9pc71XEiO1rpEfy-U6L-LYQjHnXKPXwm8h6iHkOK1B8~hdjhFW63oPcAbTHarLFhJa~SjF6D7vH2Z-TQkVOc2hzMRMz0p6umOOhLWVJY9Ea41AeBhTLvTz9O5wMIp2n7Q8IvltJjAf4hamU8CdEsNMtuoKJhFTWsyXlukZsg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ## ![2021_02_02_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef4799f31189-2f58-4b22-947a-94a805df6c842021_02_02_%E5%9B%BE%E7%89%87.png?Expires=4765839767&Signature=BkYPw3N308ZdXg6uHmY90AApYnaEiap7au4pAaguqmV4WaFk0pO3ATIWHsrn4Jgw8SrrZ8KwwzlKR8B~2FKx8ba6m3xCNmTDAZHQcjxXXJI02SIebATUywk3M1yxvwqTmtKWU5cZ5WhBg1aFIFLef-m6DA1BzcXjrmcMyMms1IW7nfSzAwj4ewsdI1aTTKY52Ywnom-e0ntaHRzz5IOxRLdeKQ66TV6z3brtwbldWuVVgJs9wDhBiZrxAg2xDS4ikoEk~kpKL73Oh9OK6apskfYbdRCOUJuUcyQ5Wb8jlkymMLFDbdH0ELpw~LgdwtT~jXdeY6VmPnK~2UdqW6~g7w__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 147, :width 475}
