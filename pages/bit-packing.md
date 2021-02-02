@@ -6,6 +6,7 @@ title: bit-packing
 ##
 ## often compressing text files to 30% of their original size or less.
 ## games. Images, textures, geometry, and video
+## **The most basic tenant of compressing data is: Don’t store bits of data unless you absolutely need them.**
 ##
 ##
 ##
