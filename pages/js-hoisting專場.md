@@ -7,7 +7,7 @@ title: js-hoisting專場
 ## [https://blog.techbridge.cc/2018/11/10/javascript-hoisting/](https://blog.techbridge.cc/2018/11/10/javascript-hoisting/)
 ## [https://www.digitalocean.com/community/tutorials/understanding-hoisting-in-javascript](https://www.digitalocean.com/community/tutorials/understanding-hoisting-in-javascript)
 ## [http://huli.logdown.com/](http://huli.logdown.com/)
-##
+## [https://john-dugan.com](https://john-dugan.com)
 ##
 ##
 ##
