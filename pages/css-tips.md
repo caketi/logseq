@@ -12,7 +12,7 @@ title: css-tips
 ##
 ## https://codepen.io/lobau/pen/ExyqJWV
 ##
-## ((ff))
+## (())
 ##
 ##
 ##
