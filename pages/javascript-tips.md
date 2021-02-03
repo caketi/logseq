@@ -6,6 +6,7 @@ title: javascript-tips
 ## 取餘--- % 例如 %2  0 1
 ## ^^箭头函数为什么会自动返回值=没有自己的this,用别人的this,伸手党啊】^^ ^^什么人在什么时候做什么事情^^
 ## __proto__ chain-=-=-=--- 函數也是一種對象 函數--prototype
+```javascript Object.getPrototypeOf()```
 ## async.js -====
 ## 同步-我做完了，你再做
 ###
