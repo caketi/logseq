@@ -2,7 +2,7 @@
 title: javascript-tips
 ---
 
-## let var ---- let 不污染出去 hoist
+## let var ---- let 不污染出去 hoist----提升（调整顺序）
 ##
 ## Did you know that you can assign object properties conditionally?
 
