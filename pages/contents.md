@@ -14,3 +14,4 @@
 ## [[xss]]
 ## [[pentesting-tools]]
 ## [[docker files]]
+## [[vscode-plugin]]
