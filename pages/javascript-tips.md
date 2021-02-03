@@ -2,7 +2,7 @@
 title: javascript-tips
 ---
 
-## let var
+## let var ---- let 不污染出去 hoist
 ##
 ## Did you know that you can assign object properties conditionally?
 
