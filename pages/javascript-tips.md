@@ -3,7 +3,7 @@ title: javascript-tips
 ---
 
 ## let（^^不能出去哦，不过进来的，全盘接受，，，^^） var ---- let 不污染出去 hoist----提升（^^调整顺序^^）^^**先宣告-再使用-let永远的神**^^
-## ^^箭头函数为什么会自动返回值=没有自己的this】^^ ^^什么人在什么时候做什么事情^^
+## ^^箭头函数为什么会自动返回值=没有自己的this,用别人的this,伸手党啊】^^ ^^什么人在什么时候做什么事情^^
 ## ![2021_02_03_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef47b14331d8-da6f-44f9-a263-4f13d340cc922021_02_03_%E5%9B%BE%E7%89%87.png?Expires=4765921537&Signature=a6q5cwXt53tpNWbpiWL51Cfjyo~q~ysWT5eVGvrBMew0DvzvZHyJXaBYF6QJuRsOjVcQeqcjKZ2jCvozjqQnuRMuOOvgJDZvcpOXWmJ6wuXAVfNuV8aO0FLXajDqyJL-ZJrQa0N-BbdjMmQ0Hhp87sbzFEp8E18wp84wdFfJfrLeN0oBQ16XociFdVLCx4BDeCHhR1f~mrSG9F~174HVs8nihXw4g8URWnjJ0uA76XHK3ZRBywhZL6hYvt7hbw4jtmX134OFAP~jvTcgK8ksHzQleobxkcYCvva4OwXp~UmJtJJDGZ4TRPBN~5RF48-G-lDsiLdzDVy~ROgYdmFUUQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 143, :width 180}
 ##
 ## Did you know that you can assign object properties conditionally?
