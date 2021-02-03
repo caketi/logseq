@@ -9,6 +9,7 @@ title: js-hoisting專場
 ## [http://huli.logdown.com/](http://huli.logdown.com/)
 ## [https://john-dugan.com](https://john-dugan.com)
 ## [https://www.iteye.com/blog/rednaxelafx-492667](https://www.iteye.com/blog/rednaxelafx-492667)
+## [https://github.com/getify/You-Dont-Know-JS/issues/1375](https://github.com/getify/You-Dont-Know-JS/issues/1375)
 ##
 ##
 ##
