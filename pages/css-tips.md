@@ -15,7 +15,7 @@ title: css-tips
 :PROPERTIES:
 :background_color: #264c9b
 :END:
-You can create a box that showing the entire text when a user hovers over the box.  ![2021_02_03_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef476ef3d5d2-d40b-4f25-a6a0-a2f49ea755da2021_02_03_%E5%9B%BE%E7%89%87.png?Expires=4765922230&Signature=i50k620x0xN1kCSS8R0Y2AUZgmfEYs6rZ3F-QGNDm0I87ovhXRMJvjGsa7khtOv-I8gp9rmm5TloO51XDypbKfGMwInT~cMXgWdVc8QM7t92GS14AJcoe1XF3Xwf41q~4CEcTwNUyhfdHDanyIK8VA8CfblFjFx6fww09pR5n69TQWrDA7uHleRDqHzTicoyHoOAVIIr6G-VIMwHJdOgeO1WsdYJ-1uatXOs7-zeV4Qiydsm6CUoEtOYYbUp-9M1e1y-NbGyR8sWtK9vMTDkgLRjO19dJ7f-IFStPnYvlVSvqYKzsWkBW2W9fdiPVtlkQVLgOiZzgGd6wT6XDdWU7Q__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+You can create a box that showing the entire text when a user hovers over the box.  ![2021_02_03_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef476ef3d5d2-d40b-4f25-a6a0-a2f49ea755da2021_02_03_%E5%9B%BE%E7%89%87.png?Expires=4765922230&Signature=i50k620x0xN1kCSS8R0Y2AUZgmfEYs6rZ3F-QGNDm0I87ovhXRMJvjGsa7khtOv-I8gp9rmm5TloO51XDypbKfGMwInT~cMXgWdVc8QM7t92GS14AJcoe1XF3Xwf41q~4CEcTwNUyhfdHDanyIK8VA8CfblFjFx6fww09pR5n69TQWrDA7uHleRDqHzTicoyHoOAVIIr6G-VIMwHJdOgeO1WsdYJ-1uatXOs7-zeV4Qiydsm6CUoEtOYYbUp-9M1e1y-NbGyR8sWtK9vMTDkgLRjO19dJ7f-IFStPnYvlVSvqYKzsWkBW2W9fdiPVtlkQVLgOiZzgGd6wT6XDdWU7Q__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 209, :width 231}
 ##
 ##
 ##
