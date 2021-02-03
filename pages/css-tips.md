@@ -13,6 +13,9 @@ title: css-tips
 ## https://codepen.io/lobau/pen/ExyqJWV
 ##
 ## (())
+:PROPERTIES:
+:background_color: #264c9b
+:END:
 ##
 ##
 ##
