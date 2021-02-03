@@ -2,9 +2,7 @@
 title: javascript-tips
 ---
 
-## ^^lodash let（^^不能出去哦，不过进来的，全盘接受，，，^^） var ---- let 不污染出去 
-hoist----提升 functions1->var2 先來的先，不過function還是老大。。。。
-（^^调整顺序^^）^^**先宣告-再使用-let永远的神**^^
+## ^^lodash let（^^不能出去哦，不过进来的，全盘接受，，，^^） var ---- let 不污染出去 hoist----提升 functions1->var2 先來的先，不過function還是老大。。。。^^调整顺序^^）^^**先宣告-再使用-let永远的神**^^
 ##
 ## ^^箭头函数为什么会自动返回值=没有自己的this,用别人的this,伸手党啊】^^ ^^什么人在什么时候做什么事情^^
 ## async.js -====
