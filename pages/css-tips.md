@@ -16,10 +16,8 @@ title: css-tips
 :background_color: #264c9b
 :END:
 
-You can create a box that showing the entire text when a user hovers over the box.
 
-It's handy and simple
-Rocket))
+You can create a box that showing the entire text when a user hovers over the box.
 ##
 ##
 ##
