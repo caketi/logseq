@@ -8,6 +8,7 @@ title: js-hoisting專場
 ## [https://www.digitalocean.com/community/tutorials/understanding-hoisting-in-javascript](https://www.digitalocean.com/community/tutorials/understanding-hoisting-in-javascript)
 ## [http://huli.logdown.com/](http://huli.logdown.com/)
 ## [https://john-dugan.com](https://john-dugan.com)
+## [https://www.iteye.com/blog/rednaxelafx-492667](https://www.iteye.com/blog/rednaxelafx-492667)
 ##
 ##
 ##
