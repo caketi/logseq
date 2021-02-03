@@ -20,6 +20,11 @@ async function test() { await fn1()}
  ```
 ## ![2021_02_03_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef47b14331d8-da6f-44f9-a263-4f13d340cc922021_02_03_%E5%9B%BE%E7%89%87.png?Expires=4765921537&Signature=a6q5cwXt53tpNWbpiWL51Cfjyo~q~ysWT5eVGvrBMew0DvzvZHyJXaBYF6QJuRsOjVcQeqcjKZ2jCvozjqQnuRMuOOvgJDZvcpOXWmJ6wuXAVfNuV8aO0FLXajDqyJL-ZJrQa0N-BbdjMmQ0Hhp87sbzFEp8E18wp84wdFfJfrLeN0oBQ16XociFdVLCx4BDeCHhR1f~mrSG9F~174HVs8nihXw4g8URWnjJ0uA76XHK3ZRBywhZL6hYvt7hbw4jtmX134OFAP~jvTcgK8ksHzQleobxkcYCvva4OwXp~UmJtJJDGZ4TRPBN~5RF48-G-lDsiLdzDVy~ROgYdmFUUQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 172, :width 180}
 ##
+##
+## 2020.2.3 ![2021_02_03_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef4733873a7c-a886-4b87-baa2-dd9d8eed07632021_02_03_%E5%9B%BE%E7%89%87.png?Expires=4765959000&Signature=nulF1GdfqSygC4LZqtjJactM7Zr-VA~t7IunWmODpCqzZ9tg4udPH4eQFpF8ZCV2wVWkV~PS7NTslSmwLNJ7-mWx6zQad5G-tR7NOXHETwRyrR5-CqSz-OkxZICkXwKxAjo1NMWSeUj9o3-eZWcbvQG2sB0zp9A2166T0lOuVvPMRWkDYV5iqi9n1NCK11c9NapusvaWUxSyslhVh~mbpKBCqYCvUcIKQcqU5JTpkE586S7ZeJy3zOfdvAnh0cpYW1gNzU1t9DmhGZeyiU3S2JKQTxblA7RCcRnF79iGwuyBIA76Ln--oANPOm7fnpp48lhaPZxQYNmXgcMWYSMqMA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+##
+##
+##
 ## Did you know that you can assign object properties conditionally?
 
 Instead of using if-statements and creating different objects, you can conditionally spread nested objects.
