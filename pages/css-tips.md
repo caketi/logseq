@@ -12,10 +12,15 @@ title: css-tips
 ##
 ## https://codepen.io/lobau/pen/ExyqJWV
 ##
-## (())
+## ((A perfect use of text-overflow and white-space property of CSS
 :PROPERTIES:
 :background_color: #264c9b
 :END:
+
+You can create a box that showing the entire text when a user hovers over the box.
+
+It's handy and simple
+Rocket))
 ##
 ##
 ##
