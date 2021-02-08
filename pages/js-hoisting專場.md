@@ -4,7 +4,9 @@ title: js-hoisting專場
 
 ## ^^this scope hoisting closure^^
 ##
-##
+## ^^1. Hoisting allows some variables to be used before the line it's declared^^
+^^2. Temporal Dead Zone (TDZ) is the space between a variable's scope and the line it's declared^^
+^^3. The this keyword is dynamic^^
 ## [https://www.cnblogs.com/liuhe688/p/5891273.html](https://www.cnblogs.com/liuhe688/p/5891273.html)
 ## [http://dmitrysoshnikov.com/notes/note-4-two-words-about-hoisting/](http://dmitrysoshnikov.com/notes/note-4-two-words-about-hoisting/)
 ## [https://blog.techbridge.cc/2018/11/10/javascript-hoisting/](https://blog.techbridge.cc/2018/11/10/javascript-hoisting/)

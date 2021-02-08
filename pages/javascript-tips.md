@@ -5,6 +5,20 @@ title: javascript-tips
 ## ^^lodash let（^^不能出去哦，不过进来的，全盘接受，，，^^） var ---- let 不污染出去 hoist----提升 functions1->var2 先來的先，不過function還是老大。。。。^^调整顺序^^）^^**先宣告-再使用-let永远的神**^^
 ## 取餘--- % 例如 %2  0 1
 ## ^^箭头函数为什么会自动返回值=没有自己的this,用别人的this,伸手党啊】^^ ^^什么人在什么时候做什么事情^^
+##
+##
+##
+## js-proxy ![2021_02_08_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef4753dc6ec7-58a3-4418-a240-9fd77f3457052021_02_08_%E5%9B%BE%E7%89%87.png?Expires=4766353997&Signature=DcpWWoOIBXo-HmEqzxkpfrTZNLR~NbDS2c9ZNIdkC0cANfG0iiXQtrdeEYggsjOKlnWTfuphL2CCmnFGmAlYg2Kl0QHflldHQwlFmJmfbTkCtrjAUk8KdVveRIi80Zi3qGFKIk5CbEg9oHcpGGxdZvrXSGx3T1iAsYb-XjCA5Al~iANiXrsUp-QnKTsfhxSCkOkewjAOUx2fi9Q029Lsjr6lnuIor0Z5gh7Zl4j8xy9qwl3I-kPkQY0-T5id3SIT7mJxsR~3-cgPwVtikPXgVK97GwZ4VJMJUMtgIXgXjWCgcQNbuU2DWz2qWcrmQG7DYiGqGOdrwZ7Dpsy0Icm3Jg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 508, :width 626}
+##
+##
+##
+##
+##
+##
+## A programming language is said to have First-class functions when functions in that language are treated like any other variable. For example, in such a language, a function can be passed as an argument to other functions, can be returned by another function and can be assigned as a value to a variable.
+##
+##
+## ![2021_02_05_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef47d8686ccd-51ac-4872-ab55-530f2924fee02021_02_05_%E5%9B%BE%E7%89%87.png?Expires=4766123569&Signature=AxE9BuocjxURj-1SOtzmKZvwM2odyNFduYkJ8UOWe0IX3ZdJJyzEKgoy~YDAoQ2i7Xgvrt3qWRr6UwxqKgff-CJZwNvptTiCGLKJ2K016J~wN4q7AtJQ4JgXsCBvRcz1qjsOn93kcLeZtJTWuaRJn-t3qjvVwegsT6wsOJXTdUYf6reoeaoz~z0VpVsWHiZNSKfcb5UOlncChqdcVu40DYRBgdzh7ytdBO1ar3SxYDHZFuLojPqW3HCYPcj7F73rZGs~Ny8ryL8ptnbcXIzTdPKuGTo6sNvmbQR5kRKDKQruI5Acqe1A9w4TTMxbV9YZR9UCgVd48~kcWJLYHPpzxA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 321, :width 626}
 ## __proto__ chain-=-=-=--- 函數也是一種對象 函數--prototype
 ##
 ```javascript
