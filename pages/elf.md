@@ -2,7 +2,7 @@
 title: ELF
 ---
 
-##
+## 两个PT_LOAD flags
 ## RE--read and execute
 ## RW-read and write----
 ##
