@@ -10,6 +10,9 @@ title: ELF
 linking/loading process of ELF executables
 ##
 ##
+## linking a target object file in order to build a working executable. (It’s important to highlight that sections are needed on linktime but they are not needed on runtime.)
+##
+##
 ## 两个PT_LOAD flags
 ## RE--read and execute-- 可执行代码。文件的entrypoint应该在这个段里面
 ## RW-read and write---- 文件的全局变量和动态链接信息
