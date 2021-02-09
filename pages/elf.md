@@ -19,3 +19,4 @@ title: ELF
 Strip实用程序也可以在ELF报头中留下section和patch字段(e shoff: section头表的偏移量，e shnum: section头的数量)。结果，二进制文件将被检测为没有section
 ##
 ## ELF头--入口点，程序头表的位置
+##
