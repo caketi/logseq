@@ -17,3 +17,5 @@ title: ELF
 ## Strip utilities may also leave the sections and patch fields in the ELF header (e shoff: offset of the section header table and e shnum: the number of section headers). As a result, the binary will be detected as having no sections.
 
 Strip实用程序也可以在ELF报头中留下section和patch字段(e shoff: section头表的偏移量，e shnum: section头的数量)。结果，二进制文件将被检测为没有section
+##
+## ELF头--入口点，程序头表的位置
