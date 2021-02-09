@@ -2,7 +2,7 @@
 title: ELF
 ---
 
-##
+## [https://www.intezer.com/blog/elf/executable-linkable-format-101-part-2-symbols/](https://www.intezer.com/blog/elf/executable-linkable-format-101-part-2-symbols/)
 ##
 ## ELF Header
     Sections
