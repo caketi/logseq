@@ -7,6 +7,7 @@ title: ELF
 ## ELF Header
     Sections
     Segments
+linking/loading process of ELF executables
 ##
 ##
 ## 两个PT_LOAD flags
