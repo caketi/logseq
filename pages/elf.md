@@ -11,7 +11,7 @@ linking/loading process of ELF executables
 ##
 ##
 ## linking a target object file in order to build a working executable. (It’s important to highlight that sections are needed on linktime but they are not needed on runtime.)
-##
+## segments
 ## only PT_LOAD segments get loaded into memory. Therefore, every other segment is mapped within the memory range of one of the PT_LOAD segments.
 ##
 ##
