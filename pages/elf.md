@@ -2,6 +2,13 @@
 title: ELF
 ---
 
+##
+##
+## ELF Header
+    Sections
+    Segments
+##
+##
 ## 两个PT_LOAD flags
 ## RE--read and execute-- 可执行代码。文件的entrypoint应该在这个段里面
 ## RW-read and write---- 文件的全局变量和动态链接信息
