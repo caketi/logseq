@@ -13,5 +13,5 @@ title: ELF
 ##
 ## objcopy -S training-sample training-sample-stripped
 ## readelf -s training-sample-stripped
-## 然后就只能看到动态
+## 然后就只能看到动态symbol表
 ##
