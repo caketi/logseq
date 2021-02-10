@@ -10,4 +10,4 @@ title: php
 ## mb_strlen( ,"uft-8")解码格式
 ## strpos---位置
 ##
-## mysql 注释 # - --
+## mysql 注释 # - --空格  /**/
