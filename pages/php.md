@@ -2,6 +2,6 @@
 title: php
 ---
 
-## isset----
+## isset----布尔值0,1
 ## vardump
 ##
