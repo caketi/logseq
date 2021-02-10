@@ -7,5 +7,6 @@ title: php
 ## gettype
 ## . 字符串操作符
 ## “” ---解释变量 ， ‘’----不解释
-## mb_strlen()
+## mb_strlen( ,"uft-8")解码格式
+## strpos---位置
 ##
