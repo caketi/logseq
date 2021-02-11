@@ -42,3 +42,5 @@
 ## [[ELF]]
 ## [[proxy and reverseproxy]]
 ## [[HTML-tips]]
+## [[php]]
+## [[xss]]
