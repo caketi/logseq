@@ -2,6 +2,8 @@
 title: HTML-tips
 ---
 
+## https://stackoverflow.com/questions/11313045/when-to-use-window-opener-window-parent-window-top[](https://stackoverflow.com/questions/11313045/when-to-use-window-opener-window-parent-window-top)
+##
 ## ![2021_02_12_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef478e15100e-bae2-4684-82d8-37cc3c0fb3e62021_02_12_image.png?Expires=4766695077&Signature=GRpthOE97IVDvujIkVp1Jh49EwIz8TZwuIzZWhd6KRN2d6uIpQAIa~2mxkLZLfU3xXpfB7B9r3WM2soJUI9Q4unZxJGM-n2kiJOZWGWXQZyHDk~R6Rck8YwAV8OqzTMKJcMP~~uY7jMhPARbzFituH7Zx~WIRfhmiZwt0-l~OZNeSes-1rsY0WywVQsFCnkAhC7S9Loyppeti3Xdwj3Pb46o9DCNmWpHUDcoT7LrgTB-KyTdIsBth9Bu6j~SDDWrr65qkQxxzQla9MRcM535V4XSV3hcp5rD2TUGSRnLGVRK~Y8Ov9JbMylJIaM6Lz4uJPi7WhXQa1iFK6iE9EkYDA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 321, :width 626} t
 ## ![2021_02_12_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef47cdaf0c03-0916-4913-a09d-52b8b105fe912021_02_12_image.png?Expires=4766662921&Signature=jMT~GaCRqY-z52DkjqjclfJdoPEXoSwCKpwXf7BjyxTD6RFpB8GSXIxV~ypE3dnV844j4zhYdKcV0nNkzUn5Puax0Em0DNN2bMCDEwBLd8tAVJSnE9I9wP9dqqJq63t6Gg~5wweV~IdYu71Sgj9~YjlEjwhbWKB8oC1E6FJXkKtOI1HLjIS5kO4a0jgHKRyhJKhJlURHPk3dcHNJ6i41WfaAouJ1HrIUudQJkHG3IDxcR-fhxyCXg3vszjiBuKu23~Q6qaMueDqNvqSlf2CY0TzMUcv4OJ2O3tZ9r5Wi2txQO3QoyWjkFfiF5P12Za~ze2IZc7737OG9nh0X2GGNBQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ##
