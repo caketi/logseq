@@ -11,3 +11,7 @@ title: php
 ## strpos---位置
 ##
 ## mysql 注释 # - --空格  /**/
+##
+##
+##
+## https://www.pttime.org/download.php?id=3715&https=1
