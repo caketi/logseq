@@ -11,7 +11,7 @@ title: php
 ## strpos---位置
 ##
 ## mysql 注释 # - --空格  /**/
-## ![2021_02_14_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef4741596b4d-6706-4f42-a4be-699461b5778b2021_02_14_image.png?Expires=4766899842&Signature=fxzenpdI8CdIimgblmUKUcTX7o9GpvLbMXZ2roFO-tOhhEwKMmAHQbf6ufkq4FvR2PAT~qHF48L5hxqcPIeloTHtBrZciPyz~Rpb9VkPyXGZdc3SdC8w5LWJAevs8d5QCb2G71uTzna5KgrCr6JwRbfJqbkGCBGXRBl3~LBEGrd63iGlDnCvBj7WNcEmsOzwq6DdLaz6STg5A-Ui-ob53~Du0s1q-mE6vWucfvcAFI9tD95Ws1MBu4ww7d92lmMdnpPKrlNHEdjxIdjA7czQ6uYkMf7dJqh~z~4gght9kgW3KGI~Jb6FwUcsaWN~0WZMjuiIzhcuO7gXmtRWeL2fkQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+## ![2021_02_14_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef4741596b4d-6706-4f42-a4be-699461b5778b2021_02_14_image.png?Expires=4766899842&Signature=fxzenpdI8CdIimgblmUKUcTX7o9GpvLbMXZ2roFO-tOhhEwKMmAHQbf6ufkq4FvR2PAT~qHF48L5hxqcPIeloTHtBrZciPyz~Rpb9VkPyXGZdc3SdC8w5LWJAevs8d5QCb2G71uTzna5KgrCr6JwRbfJqbkGCBGXRBl3~LBEGrd63iGlDnCvBj7WNcEmsOzwq6DdLaz6STg5A-Ui-ob53~Du0s1q-mE6vWucfvcAFI9tD95Ws1MBu4ww7d92lmMdnpPKrlNHEdjxIdjA7czQ6uYkMf7dJqh~z~4gght9kgW3KGI~Jb6FwUcsaWN~0WZMjuiIzhcuO7gXmtRWeL2fkQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 149, :width 183}
 ##
 ##
 ##
