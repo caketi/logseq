@@ -13,4 +13,4 @@ title: php
 ## mysql 注释 # - --空格  /**/
 ##
 ##
-## https://www.pttime.org/download.php?id=3715&https=1
+## [php7](****)
