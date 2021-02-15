@@ -9,7 +9,7 @@ title: linux
 ## %s%d%d %(N[0)
 ## "{0}*{1}*{2}".format(N[0],M,n-1)
 ## f"{N[0]}" python3.6
-##
+## ![2021_02_15_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef47548dd834-6373-4570-abe5-fc6017d8e5782021_02_15_image.png?Expires=4766963869&Signature=EiiTbSFfpqduLcIYVuRqCp6-lIxJhjeeSMlz24c9OwiY5Lo9xSNOC37taMIDXoWDpzKBc9vE8oSlWkQnEi8LTIxayHPPFbD4VyTe5HFEhy1bAcIgtqBxJgD4RnSjYh3K6iqvfXRaCvsI8x8pFJitJQlKuDs8OXy-ppa4z~OZ5-BwmtS4q5guQY5AVI1tDr9LHHM3D0E9O-vX4sUAs0Q-YU6Q-zvyYMyDqFSiyNbJRtwYPI4XuUOxbGfNyK9J~0LRoE~3r0TELkAOS3TOPSr-hsAywNLKj89GykjrswN8SdzVusMgHmrS5AFPTwIDYWyYrZ4MgriW0l6TTceW0qMaww__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ##
 ##
 ****
