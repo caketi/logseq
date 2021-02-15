@@ -8,7 +8,7 @@ title: linux
 ## 格式化python字符
 ## %s%d%d %(N[0)
 ## "{0}*{1}*{2}".format(N[0],M,n-1)
-## f"{N[0]}"
+## f"{N[0]}" python3.6
 ##
 ##
 ##
