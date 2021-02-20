@@ -4,7 +4,7 @@ title: linux-kernel
 
 ## ![2021_02_20_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef4729ba0663-a242-444d-bc0e-cac4b7768dd72021_02_20_image.png?Expires=4767434411&Signature=DYd~-Q8aul06YV6hRml0dq17KV2IGGxwjt6MdFXS3ETy9jVXOAc8A0Zx33pQ4Y6oBMo3PZOD-A-q5QXuvOeq-3GXNrBsAa4s-zniMuBgxu93DMoPZZOBfEMnnsFvDNSip8FK-eCrDffz9CfFoAa1PlrgjwSjGCElOboSwRYrHNfcgVz3zUV3erEUU2QpdZXgDPS4jGVLhMTUVq~R6hMbc~3dUOMxzrfxOdMwVzoyRoWuYB8sJFOnozgUqjq6duhRma1lPa6Z92Euyzv03cBVxNX-DQNZn3QPx84Rc~XqpD8L804rRkKCsgaxo3MLmDEfJHOvM-ljhdKkzy~4mw5TLA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ##
-##
+## ![2021_02_20_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef4792502267-d22b-44e6-b726-da452c0d90262021_02_20_image.png?Expires=4767434681&Signature=WqMKFvfTnuRv0mQ-ABw2FctE2vtHB9HXV~wtDUyRpmVud5ZLsKcF5E0PTigkB13AlcMhIXL5Xi5TQnw7~Ga1Y2UNFlP8~hlNLPFuwb1h4vus-ddwuqMcaDNFEucnxz1S2OEhM-NWQ~0rbxcwSxiSH22bzR5OksGmlUqfZRyyHIPfi5jnvhbsIgVZtgoukzT4vdw5lCxnPLBUDQ2N-ybT8OKYl1raRuD1JjdUfBZGvQcMsiwggcunyHVAsFyqGhcqnT9vjMxDSyAKI8WtQZqzLEq3eYdvCkJIAxwK4pfA272GPI0WdT~pj5FY85zlMsgW0VS9gakzcziuM5tYmwNqNg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ##
 ##
 ##
