@@ -7,7 +7,7 @@ title: linux-kernel
 ## ![2021_02_20_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef47971cc4d6-97d9-4b3e-bf88-bea1ff36ceea2021_02_20_image.png?Expires=4767435390&Signature=jwSUleyk4sS4rq6eAO5RmpTbxx5oGKirjHPMfO9PDVzLtL3pDN4OJValVLUSFWKc2epGQwtyky54WeG~ZDgNAEVrnhd713zP2nXXXQxepbo-thbFsuPVRoHUZ5g7f7ITno4-KyNgGhQUPDx5ZG31k85md-SK3EN193UOwyygeQkPwUifcYBR4NMK7klqofRKJzmcZTIaxlXOyVJiOXtRE5oFNBPkAfkNU6FNpI5nD19Ck-mp9aTvZTAHOHqhrVPBnedFbs9dfaK9ZZgjKB8kZc1eb~eYXqDO6N~oWNe4RoX~PkVyqRWOwjQkmMfrgcnrcIWJb1WHF1KPV4d1I4YsHg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 117, :width 63}
 ## ![2021_02_20_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef4777d390ca-7f5e-48f5-bafb-ec5042cef9fd2021_02_20_image.png?Expires=4767435720&Signature=fhV3x~~OnZ~zvWxxiQRXL1ocrf~WJLzpS8oxethftV1nyvOmQN-qnwGlB~hgQsg~3twVKHP72r6frs~HToWET0qej94r-kWwkN1dXclnx03NUmXrO6M6v-847rLKoViYnhbngL9-y3zx493wIvtfEqvWBvgN-FALeUwvU2H-ZZY9PZqynwWKHJv3yt2OA9MDyJmSnCRE-hIFGIo9FLWFjFqUH3WoGkKG1Va5J8HDGR8n~Flzwiz-bumLE~Fr4GTDKnYHc15TIMrbj10gTO~bdfrNvN5LUH4h0vkReV0M12eVNIkzeOXaLwOWvEAylBUPNLwVE2Hihpw2eczwQ5JKzg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 73, :width 168}
 ##
-##
+## ![2021_02_21_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef47f8262a5a-2715-4559-93fb-5201b4fd69362021_02_21_image.png?Expires=4767439635&Signature=Ey9hGnBuNmoq1sOKKf~PNwXyeoGNlvBKsO4olD8g9y-8cusv2qAbZimMg0rsM~PL0Cl0RQFaLk7W9u67YBctHerHuYutIANkcP2CKSZMgMihTi1aR-9BY9AB1q7sxmCQCcBAm-xcgpinlF15FgAyxY4RMWssU9z7bR4o1aHWbeXoA4rHBpjwjOUiIHleZsU6U5lHGZR5P8cdanDHBEfcleeaVYZoyPOGJykt8Pvh~i4fEgjn81jjvIHqQFrYShb25ct8KLobaGPngnZytUP8d8rueWxCHqy~uHmgVH5Hqg5IJjPHBWMGFMf7zEE0KoPgcTGlTuIRC~gpqTI2-pwtOw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ##
 ##
 ##
