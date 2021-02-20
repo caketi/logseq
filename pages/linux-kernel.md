@@ -13,4 +13,4 @@ title: linux-kernel
 ##
 ##
 ##
-##
+## ![2021_02_21_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef4750389b19-a1b6-466b-a33a-0d28ee69c2782021_02_21_image.png?Expires=4767438115&Signature=SgtVwBCP3pgmuMtxECcj2Y0G79j4Z~7nmVGp0g9B01~k3O15dXdKkKHcHKEK3TjFaoEVk9U2-okv5j0EGAue6tJMl1qRec3P~ZsBIDpzk1Pl5ZCxnRHpGvsKAIS0b6DI~jhCPpSa7ulCpX6Ww1a4YyJJqbG6CswonJZ-gAVRaiuRsMUlOzqpR7UztE5bVXRcK1Nlk9BHQma1~Ri5QPux3eVJraQXqyCw5SbNCAFY8j-1C2giSO-Adjb3ZTye~WvPK5mkGelF0pDF6w526oxqA41icxXghmjWWrxI6g2Md-TLn9VDFcDsPhuAKTvS1se0iScZHxAP6Alcko1OVaTwMA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
