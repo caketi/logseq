@@ -23,4 +23,4 @@ title: linux-kernel
 ## ![2021_02_21_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef4750389b19-a1b6-466b-a33a-0d28ee69c2782021_02_21_image.png?Expires=4767438115&Signature=SgtVwBCP3pgmuMtxECcj2Y0G79j4Z~7nmVGp0g9B01~k3O15dXdKkKHcHKEK3TjFaoEVk9U2-okv5j0EGAue6tJMl1qRec3P~ZsBIDpzk1Pl5ZCxnRHpGvsKAIS0b6DI~jhCPpSa7ulCpX6Ww1a4YyJJqbG6CswonJZ-gAVRaiuRsMUlOzqpR7UztE5bVXRcK1Nlk9BHQma1~Ri5QPux3eVJraQXqyCw5SbNCAFY8j-1C2giSO-Adjb3ZTye~WvPK5mkGelF0pDF6w526oxqA41icxXghmjWWrxI6g2Md-TLn9VDFcDsPhuAKTvS1se0iScZHxAP6Alcko1OVaTwMA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 302, :width 626}
 ##
 ##
-##
+## ![2021_02_21_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef47ebe44c4e-42aa-49e6-b2e3-fd84179d25a72021_02_21_image.png?Expires=4767440951&Signature=Yq~-kwG0~8e4BJvrymsCP1h~l780as7AQzNkKsYi7DRxsZnjXFi6f5uWq-dB-v-QUp0fCZ7BmG~RS5fvJ0-vHOL8I7gbtLxw~0nlTQ9trsKoLtx~8Ai8RXVSVmvXR2bC4BZcNIeWcUy0D9GT1XhPBGcshYax3C5CXcRHPsm-eImqFHWGiK9qzlqBff~Jx-V7q7e0IfEkee1syFuBwDnKfjcEJMNO8sI8HW4xyR6ITmOPYQkqFtipAqCpbn7WGAQRMpJGs8SMwquXQ39azVYUUf~3VdMbyYpEnS7W0dpjUqbZ9HNemzKIntLbs5lnBfmyMoVt1qf7DCdENw0TuPJ2ZQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
