@@ -34,6 +34,6 @@ title: linux-kernel
 ## ![2021_02_21_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef47f242af6d-cc09-406c-8010-f2f08ac3d7452021_02_21_image.png?Expires=4767475401&Signature=fB~RjuG1b4fdLNfDWvlcrY9Z4KgrpozRpmgk03HzGjBlfnJ6GcXHXLuMVlFPHrjoxwRzPPJMFEPp1OhdBuS2gJFRTF5iqO4UHY98efL5pzhuyjPw7Y~ZMlKnlXHqC7hiWYWnGlyAwpq5a8xKsaLxaQuxmSFYOEQTYWkD4c3NcCfwDJOl1nXMySz~BHb1v4HRa0yq8NJc~gClKlIVbbXQ6ygr7s5m21A5sza9CvPdSTtY54oObQxdqzhYo0ccKxjzMC7tpQy9ijlVId56Q0pHA-mq6aaMjf~9Lx1Y95EkkqD0yKsUWZXoysRp9gEplZlB1mVOefbsO-xOutVm1mGaCQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ## ![2021_02_21_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef472049d9e5-c86a-4ed4-85ce-47651751bf8c2021_02_21_image.png?Expires=4767475579&Signature=AG8LnLVvMPgoKREaqBbmygGAZr7jDSBOq~qTRef-RpEzVM57~MQ0uCj5HTapvB4aFD3eZzhycrhRurW6nmaejbo3Q~icOeiUVSFjNWXTVzafmucLQ5jEUAJMLmQfV~WmQVCg2aAm~TGXc73j0aV23tBPst0VcgSs7RnUN3utfeZqRncbyH4MiaF5dO0FA04OJTjhzUmDkdq3QukmqbnzY-ub~7MYgfSsQlg8z9jEwedAtF8MTRHkSu-ALCcbnhHUFGuPa8sXRSKDt9OCVbAC9b8p6O7rbRkqCHLrhJl-CTJhKk77b0nPBy5dwK3m3su-eDQun4zLM0VJXd9JMQL0rA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 330, :width 626}、
 ##
-## BIOS
+## BIOS BOOTLOADER
 ##
 ##
