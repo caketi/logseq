@@ -49,6 +49,7 @@ pc机的BIOS吧（0xFFFF0bios存储的的总线地址)bootsect从牧歌固定的
 setup.s
  解析BIOS/BOOTLOADER传递来的参数
 ### 设置系统内核运行的LDT(局部描述符) IDT(中断描述寄存器）全局描述符（设置全局描述符寄存器）
-设置
+设置中断控制芯片、进入保护模式运行
+跳转到system
 ##
 ##
