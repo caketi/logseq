@@ -48,5 +48,6 @@ pc机的BIOS吧（0xFFFF0bios存储的的总线地址)bootsect从牧歌固定的
 最后跳到setup.js中执行
 setup.s
  解析BIOS/BOOTLOADER传递来的参数
+###
 ##
 ##
