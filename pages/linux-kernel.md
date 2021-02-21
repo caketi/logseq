@@ -38,5 +38,8 @@ title: linux-kernel
   1.1 如何从硬盘中读出的
   1.2启动的时候如何拿到硬件参数的  
   1.3Linux在初始运行中都做了什么
+trap.c        trap_init()
+mktime.c   time_init
+sched.c     sched_init
 ##
 ##
