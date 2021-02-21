@@ -42,6 +42,7 @@ trap.c        trap_init()
 mktime.c   time_init
 sched.c     sched_init
 pc机的BIOS吧（0xFFFF0bios存储的的总线地址)bootsect从牧歌固定的地址拿到了内存中的某个固定地址（0x90000) 先挂载到0x7c00然后跳到0x90000
-### bootsect.s ---磁盘引导块程序，在磁盘的第一个扇区的程序（0,0,1）
+### bootsect.s ---磁盘引导块程序，在磁盘的第一个扇区的程序（0,0,1）磁道 磁头 扇区
+作用：首先将后续的setup.s代码从磁盘中加载到
 ##
 ##
