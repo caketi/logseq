@@ -41,6 +41,6 @@ title: linux-kernel
 trap.c        trap_init()
 mktime.c   time_init
 sched.c     sched_init
-pc机的BIOS吧bootsect bootsect.s
+pc机的BIOS吧（0xFFFF0)bootsect bootsect.s
 ##
 ##
