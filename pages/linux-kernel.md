@@ -35,6 +35,7 @@ title: linux-kernel
 ## ![2021_02_21_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef472049d9e5-c86a-4ed4-85ce-47651751bf8c2021_02_21_image.png?Expires=4767475579&Signature=AG8LnLVvMPgoKREaqBbmygGAZr7jDSBOq~qTRef-RpEzVM57~MQ0uCj5HTapvB4aFD3eZzhycrhRurW6nmaejbo3Q~icOeiUVSFjNWXTVzafmucLQ5jEUAJMLmQfV~WmQVCg2aAm~TGXc73j0aV23tBPst0VcgSs7RnUN3utfeZqRncbyH4MiaF5dO0FA04OJTjhzUmDkdq3QukmqbnzY-ub~7MYgfSsQlg8z9jEwedAtF8MTRHkSu-ALCcbnhHUFGuPa8sXRSKDt9OCVbAC9b8p6O7rbRkqCHLrhJl-CTJhKk77b0nPBy5dwK3m3su-eDQun4zLM0VJXd9JMQL0rA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 330, :width 626}、
 ### BIOS BOOTLOADER
 1. Linux操作系统的引导
-  1.1 如何从
+  1.1 如何从硬盘中读出的
+1.2
 ##
 ##
