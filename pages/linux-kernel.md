@@ -36,6 +36,7 @@ title: linux-kernel
 ### BIOS BOOTLOADER
 1. Linux操作系统的引导
   1.1 如何从硬盘中读出的
-1.2
+  1.2启动的时候如何拿到硬件参数的
+1.3Linux在初始运行中都做了什么
 ##
 ##
