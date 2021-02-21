@@ -41,6 +41,6 @@ title: linux-kernel
 trap.c        trap_init()
 mktime.c   time_init
 sched.c     sched_init
-pc机的BIOS吧（0xFFFF0bios存储的的总线地址)bootsect从牧歌固定的地址拿到了内存中的某个固定地址（0x7 bootsect.s
+pc机的BIOS吧（0xFFFF0bios存储的的总线地址)bootsect从牧歌固定的地址拿到了内存中的某个固定地址（0x90000) bootsect.s
 ##
 ##
