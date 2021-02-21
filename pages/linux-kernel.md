@@ -41,5 +41,7 @@ title: linux-kernel
 trap.c        trap_init()
 mktime.c   time_init
 sched.c     sched_init
+
+bootsect.s
 ##
 ##
