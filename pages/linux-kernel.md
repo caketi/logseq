@@ -24,7 +24,7 @@ title: linux-kernel
 :END:
 ## 空闲
 ##
-##
+## ![2021_02_22_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef47c2b55f4c-b03a-45d5-877c-efeeee37dddd2021_02_22_%E5%9B%BE%E7%89%87.png?Expires=4767591251&Signature=RgknkGWbYRU49FAimnXj-blQA~Gyc0QCbddR~Dhbe3cDmJJ7R-uua1NglEXMAlSaiSniet-pfKLtfWkN23tJby2IO9wWQukAhp59fFxeY90p52GXa4ty7tKVg0ABX8VmGB-l8R7UttwvlNB5lViNwnUV2Mf2p3grcAoR22Orjd5ThoA8xvOUVgoo9x46iPATrfOzok7cw6AyOfqHPnfnamOC5whdNkS9mxpRp5IqCoD-pe4E-dYUMMli7UtQNydfpBbU1Ad-nqgwBm2T8~SkAaYpBGnrmmfd91nTHuxEGbICC6U5CDf-UYHSw5-iYgdM2bKHKWjujkN27v24uC65iw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ##
 ## ![2021_02_22_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef4746542ef5-c08d-4bfd-907b-163d72e038452021_02_22_%E5%9B%BE%E7%89%87.png?Expires=4767591009&Signature=SVuN6Ktcz3Uohb6K~0g2y7w7eMK~GbNPh90GaLWRaMOiihr8hi4QO5VMdyOuBBvGv7diL37KjjJS45dsIC~js14Bx4uT2f8hrcP-7NYA4Kjtqc879WL3ayCudIGl2FgsSNPjTGzk6s-NVc2c96u4YF1eFtSg0Omr2R6oqbASGZxnPAWyZkNLyVs2QiK3d976gsxdjfSiXP7Ka-X9msVdCeHiiTz9rg6IpdOv4Yh44J-MD0Jd-FwypRyA8JM-qAT1ETzhUQzwo5o-V5aiVeniVjJfFgU~~qMyh1-ejhg~6Do3ul13OhZmh505WXo3KLt5U9QAp~uA2iglMUdGlW5~3Q__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ##
