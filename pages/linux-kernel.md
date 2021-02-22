@@ -24,6 +24,7 @@ title: linux-kernel
 :END:
 ## 空闲
 ## 获取该资源对应的设备和块号的高速缓冲区
+## 从 buffer_
 ## ![2021_02_22_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef47f2809db3-5bb8-4bbc-a0bb-9eb8cfc3169e2021_02_22_%E5%9B%BE%E7%89%87.png?Expires=4767591609&Signature=SwpUsVv2FFEFGpN0aRjBon9oOIEwPxg8B~n~gL7Gw~YJ5a2dPjsWGudx3VIXagF0dqDEL08b0OrfFdf~i7vP19T7-0vQpe5z5lBWo2~0Cyxyp4BDfIl3Kr7k8OomsBuZ~FFnAJFUoX7ignvdB4aWdxpmUa6rqtpsKa2bd0QjR7pWWL5hU233G0YVGpVeupwfhXoxV40akJmPyeLSRhc-pZOsXYdoG5EcLVGVschBZkJFw0R0CUN0LpaY9bl2dPmzNehS4sRz~UAIf0l5Q644IjejLrWTXL1BmZWQ97ZVRap6KWgaCo6DAACSalRgqy4D2YTcyAScVX2S9ffOw1wsSQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ## ![2021_02_22_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef47d49322c6-d2df-4a1d-bc2d-e490a21d8ae32021_02_22_%E5%9B%BE%E7%89%87.png?Expires=4767591313&Signature=PrOAxS67cYA4hiPBFpS9NjJeiNny9CY2ApSVYR5SyB2mz1yRj74h1okqz-YqnnGdgchJw9EiQgTy3dDMuWPpK-YjqsYpIHp~tI1C5heN0ZbeATbxVbn81PYdiRQ-HSQNlLw2pNqaeVtflQ8WKBeOyDZxB5jjVZrjnZCwGn3mNPAYp-TEQo4nvgYAonZy1tXA24JUDJseRzTD8BpDPk9FszlIQp1~36uU2lZrNH2SvnnMOp-8WrAp0cAXLeqa-Reo19DRqB8pCavzm2kw8yetzVZvetjozQw3YyDaArxSxKHtBnk~Thiofgof551k154a0-Fkhte0eVRs~QpAfycsHA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ##
