@@ -11,7 +11,7 @@ title: linux-kernel
 ## ![2021_02_22_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef47d2de43d4-0473-4ba7-98ec-849b04bd776e2021_02_22_%E5%9B%BE%E7%89%87.png?Expires=4767576773&Signature=f78R9bAiXhHYy6U5VHsGcOum6C0G2qqgm6MZPwfJr~fNSuFT4DhEoYra20vUX74YR4Teoh98yazarCcwCh96cdQDfkGEpfj5m1ao7~2ffiT8~NUEy03BGsVif3JZgl2hX3PwNzWlcwJqrk7w~zhXFCXLW6qVnTEd7sptSNiDlq-J-Ci4Uux8BlaQXyVnu98Gax11DrJ9oUXw6YEWf6lFs4c-FLebOS09h2S~UJamGpKKEMLTFgNNt6TU4O4NCqpGCXDEcYg~sbAvKVsSqdMkNEKmb8le7rfdLIFdEFPWqyeQ-NLFUcoJ-Jz~VV9NN8sFwJOXGw0DZOR0WcgHi6pdzQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ##
 ## 通过设备号获取
-## ^^高速缓冲区 非常有限的资源， 内存自己控制，检测容量
+## ^^高速缓冲区 非常有限的资源， 内存自己控制，检测容量^^
 映射关系（内存与磁盘之间的映射关系） 应用程序和高速缓存区的交互api 磁盘与高速缓冲区的交互api 高速缓存区的管理系统（循坏列表+哈希表+单链表）^^
 ## ![2021_02_22_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef473b812396-c0e0-4674-b93f-bbae2e82f2ae2021_02_22_%E5%9B%BE%E7%89%87.png?Expires=4767576846&Signature=Q3vdCvJjjD4RdF1oKSfaojQwEWyOfo0XviEkrRsFL9YLWi~shXh2BhJJkTjrTMYQzTuTwzOdcoAbr4qZPqZXDDg-YuNUXsUxWCLAPTF-iohCwv16pnUnqD389vMou9N~LpPCGuUrZghdaUGUMfGKHV2V-ohKs2Vi2rHgebKYb~RYowue1zu7nVpV0E4laQBezHn7DezS4aqk9H7yucNPXWL23Re4KvKdYZem6EIT6Vq0-QvWfO9FSD~Vvb4-7iYZ4HUxDDPoNKbKDU9~xUhFVSPu97d-1gX50E21qju-55NBR8MHRUcpA5wG0oECLReIqxIACqBw1q32TWswfEngLg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ##
