@@ -110,8 +110,8 @@ setup.s
 ## ![2021_02_22_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef4705548eff-ff11-4dab-800c-09bfd49767872021_02_22_%E5%9B%BE%E7%89%87.png?Expires=4767602412&Signature=M86WcFHhFEFLnfgf9CX1sk~qDA~qYx7-NE~Bwa4lw5yuOlSOinrT2WqXlh6M9ofz109~Xl939Dmkzki~PnXW2gvAcnNEH6OYPY6QZtg38zKY7yA3FMRdpXwHIDRRAAxmwBs~NMnnMww8cLjrAI8YwkuWVv-mAadvHGgvtFUSHqnaz0Lxd7ZqZMhb3XVJc5PcvZRJNJmCo8kSUwOTBWuIihhAmRy1kRgy~759WXfk3QOeUK1es82myTzVSTVeoteFYWGYzlFJ5kI5jzKkNS6DaIQdFMBtcSajWST8gO6khT2goBknJlz~hw7tlQSEBN5Jj4-tbmhbyoTFMe7I8MzPlQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 161, :width 471}
 ## ![2021_02_22_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef477bfbc7ff-8d79-4797-8da8-f9a454dee69f2021_02_22_%E5%9B%BE%E7%89%87.png?Expires=4767602581&Signature=YxiY~NpbOCjdQ-v8pvilcutfgTyR4MrQFs6eT58JRN-5xOmy5PMtWDpRpvtAlKLHGO7kcVAHvpE6e-TPqmYbwMS-23EwlrGXmk9f~wnxOLV3SSX9cJ7Woq~4KIrIvXFhPrmE9JHVtByVmJ7VBj6Bi7-GSgaQgjVK64qgf1fSpln3rWu2S~ZgTl7LMcdGGxu00-3qiXOb05sTaDupmDVDjobWupKW8xvn4~yV8gH-2-682wo3iTuPEmACcX-VqksOV8i5gWWSV5DzSaxo8HoL1IZl1uKU5prX80hhRahTzKiaq~bKNiZaBiuN37m8TAPO19MxRidYx7f4N9CeTbqSPQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ## super.c
-## 1.对设备的超级快进行操作（创建 读取 释放）
-## get_super
+## 1.对设备的超级快进行操作（获取 读取 释放）
+## ^^get_super put_super read_super^^
 ## 2.超级快是设备文件系统的映射（代码中的类）
 ## 文件系统的加载/卸载 mount unmount））
 ## 3.根文件系统的加载（ /  ^^linuxrc^^）mount_root
