@@ -116,4 +116,4 @@ setup.s
 ## 文件系统的加载/卸载 mount unmount））
 ## sys_mount sys_unmount
 ## 3.根文件系统的加载（ /  ^^linuxrc^^）mount_root
-##
+## ![2021_02_22_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef4701fc4c75-b40e-4164-a458-02587260e2562021_02_22_%E5%9B%BE%E7%89%87.png?Expires=4767604016&Signature=JhTjSFAMS0a0z4nwVxs7kRbITFyCMEMtq5UkjKIbUSsHXVXdUVb6Ql23uGT4dkl346xtZlnHXBlhZGVj7g3NhnvqHZ8rn~YOxt-ST814UXKF0fn1NqVCfc79TyzkVXg5fLnRzD2EWSzVArW2OsIDWgBIo-ZrAtng3s0P8Y0hrXo6uD0w63~Wz2UhAsk1fV3pRZDi14RNn3f8fnpLIKajtW3v8P-oBXKSncq0yUzVaIuHUYn4OdUntiA7bXsHADBqarP9taBPYjQRdD5JJuwMpuOCibv0X8P1fYQoppyL8DMwq2Ud0MLzdknQSvWgPy-9lykViYZDP8bEdOkgIoZiEw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
