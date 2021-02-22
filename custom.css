@@ -1,32 +1,34 @@
-@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;700&family=Fira+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&family=Fira+Code:wght@400&Titillium+Web:wght@300&display=swap");
 
 :root {
-  --background: #282a36;
+  --background: #282a36; 
   --light-background: #343746;
   --lighter-background: #424450;
   --dark-background: #21222c;
   --darker-background: #191a21;
-  --foreground: #f8f8f2;
+  --foreground: #f8f8f2; 
   --current-line: #44475a;
-  --comment: #6272a4;
+  --comment: #6272a4; 
   --white: var(--foreground);
   --white-hover: #f8f8f280;
-  --red: #ff5555;
-  --orange: #ffb86c;
-  --yellow: #f1fa8c;
-  --green: #50fa7b;
-  --purple: #bd93f9;
+  --red: #ff5555; 
+  --orange: #ff9580; /*morbius*/ 
+  --orange-hover: #b26859;
+  --yellow: #ffff80; /*Lincoln*/ 
+  --green: #8aff80; /*blade */ 
+  --purple: #9580ff; /*#bd93f8*/
   --purple-hover: #bf93f980;
-  --cyan: #8be9fd;
+  --cyan: #80ffea; /* Van Helsing*/ 
   --cyan-hover: #8be9fd80;
-  --pink: #ff79c6;
-  --pink-hover: #ff79c680;
+  --pink: #ff80bf; /* buffy */ 
+  --pink-hover: #ff79c680; 
+  --selection: #43475a;
 
   --ls-tag-text-opacity: 0.8;
   --ls-tag-text-hover-opacity: 0.8;
   --ls-page-text-size: 16px;
   --ls-page-title-size: 36px;
-  --ls-font-family: "Fira Sans";
+  --ls-font-family: 'Titillium Web', sans-serif;
   --ls-font-weight: 300;
   --ls-font-letter-spacing: 0.002em;
   --ls-font-line-height: 1.5;
@@ -35,8 +37,7 @@
   --ls-border-radius-medium: 6px;
 }
 
-.dark-theme,
-html[data-theme="dark"] {
+.dark-theme {
   --ls-primary-background-color: var(--background);
   --ls-secondary-background-color: var(--dark-background);
   --ls-tertiary-background-color: var(--light-background);
@@ -57,11 +58,11 @@ html[data-theme="dark"] {
   --ls-head-text-color: var(--foreground);
   --ls-title-text-color: var(--foreground);
 
-  --ls-link-text-color: var(--pink);
-  --ls-link-text-hover-color: var(--pink-hover);
+  --ls-link-text-color: var(--orange);
+  --ls-link-text-hover-color: var(--orange-hover);
 
-  --ls-link-ref-text-color: var(--pink);
-  --ls-link-ref-text-hover-color: var(--pink-hover);
+  --ls-link-ref-text-color: var(--orange);
+  --ls-link-ref-text-hover-color: var(--orange-hover);
   --ls-block-ref-link-text-color: var(--ls-border-color);
 
   --ls-tag-text-color: var(--purple);
@@ -79,7 +80,7 @@ html[data-theme="dark"] {
   --ls-page-blockquote-bg-color: var(--light-background);
   --ls-page-blockquote-border-color: var(--yellow);
 
-  --ls-page-inline-code-color: var(--orange);
+  --ls-page-inline-code-color: var(--pink);
   --ls-page-inline-code-bg-color: var(--background);
 
   --ls-scrollbar-background-color: var(--background);
@@ -109,7 +110,8 @@ i {
 }
 
 b {
-  color: var(--orange);
+  color: var(--red);
+  font-weight: bold;
 }
 
 mark {
@@ -122,10 +124,6 @@ mark {
 
 .bg-green-600 {
   background-color: var(--green);
-}
-
-.bg-red-500 {
-  background-color: var(--red);
 }
 
 .dark-theme .form-checkbox {
@@ -143,7 +141,6 @@ mark {
   color: var(--cyan-hover);
 }
 
-h1.title,
 .ls-block h1,
 .ls-block h2,
 .ls-block h3,
@@ -153,40 +150,21 @@ h1.title,
   font-weight: 400;
 }
 
-/* Priority tag styling */
-.priority {
-  color: var(--ls-tag-text-color);
-  opacity: 1 !important;
-}
-
-.priority:hover,
-a.tooltip-priority:hover {
-  color: var(--ls-tag-text-hover-color);
-  opacity: 0.5;
-}
-
-a.tooltip-priority {
-  color: var(--ls-tag-text-color);
-}
-
-.Tooltip__label {
-  background: var(--ls-quinary-background-color);
-}
-
-.Tooltip__label::after {
-  border-bottom-color: var(--ls-quinary-background-color);
-}
-
 /*
-    Name:       Dracula for CodeMirror
+    Name:       dracula for CodeMirror
     Author:     Michael Kaminsky (http://github.com/mkaminsky11)
-    Adapted by:    Sly Bouhafs
+    Adapted:    Sly Bouhafs
     Original dracula color scheme by Zeno Rocha (https://github.com/zenorocha/dracula-theme)
     Adapted for logseq
 */
 
+.CodeMirror pre.CodeMirror-line, .CodeMirror pre.CodeMirror-line-like {
+  font-family:  "Fire Code", monospace; /*"Ubuntu Mono",*/
+  font-weight: 400;
+}
+
 .CodeMirror {
-  font-family: "FiraCode Nerd Font", "Fire Code", monospace;
+/*  font-family: "FiraCode Nerd Font", "Fire Code", monospace; */
   line-height: 1.2;
   background: var(--background);
 }
@@ -281,7 +259,7 @@ a.tooltip-priority {
 }
 .cm-s-default span.cm-variable-3,
 .cm-s-default span.cm-type {
-  color: var(--orange);
+  color: var(--pink);
 }
 
 .cm-s-default .CodeMirror-activeline-background {
@@ -295,3 +273,13 @@ a.tooltip-priority {
 #right-sidebar pre.CodeMirror-line {
   background: transparent;
 }
+
+/* === hide top bullet in embed-block ===*/
+.embed-block .flex-1.flex-row {
+	margin-left: -15px; }  /* tweak value to move the top bullet */
+.embed-block .block-children {
+	border-left : 0px; }  /* hide the first indentation line */
+.embed-block .flex-1.flex-row .bullet-container.cursor .bullet {
+	background-color: transparent} /* embled-block top bullet */
+.embed-block .block-children .flex-1.flex-row .bullet-container.cursor .bullet {
+	background-color: var(--ls-block-bullet-color)} /* embled-block children bullets */
