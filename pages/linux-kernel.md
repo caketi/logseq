@@ -101,5 +101,7 @@ setup.s
 ## bimap.c ![2021_02_22_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef47ef962e94-e422-494a-88ad-4e78c41af9402021_02_22_%E5%9B%BE%E7%89%87.png?Expires=4767592779&Signature=JGXWUgOAHaIyf0Qe~cu6gWI42uIuc~IAemSRG2zXUe09TME2-7xCImVlk0vpZUCGx9Hz5r~eudmMd~8ji5fKLNCj9MkpEl1ux439vqBTB5mYHhMBtLpkQsWwe7360KWnLL7M9WF55q8afW8SPQ~7YBdKFx6Ahus01jfr77uMkr-N8qBx5S~qVz7--jeMtx6HIpZTetoe8YKXs1queHodJX2~Eah78y4qbxw5ufcXw4bjytQz38HECmm2Nydeaviwx93GlL~KXFuC2DxqFULrAvv19OWUMrPD9CWJPB9zBSdTu~kqHoRFoKKcSf8EoFR3E~3pwML2nBSNJETGxt1OEQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ## ![2021_02_22_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef47ccddc5a6-b32b-490a-96b7-889bb3d9443a2021_02_22_%E5%9B%BE%E7%89%87.png?Expires=4767592756&Signature=LlKbGpaOzh7NKaZxaJwuF9DFYEzifRGt~4rFLwLJjD73Aycv3r~bXtoILEL~8c4xwnic6iWhfe3ClDSYZffWepkpRAojZc74JRs7EwHl~Lx0zhEwrcwqfl~8GmNmUmabPc9D~YwjDKDRkaeRAeLMdhCtUURxlGKmyzYI2uN23jkzkQLdXsy5e7PA3hsAHaI4Sepaf3gO4szj4sWNwUdOnJuy1ur~10A1tnpxdyOOhfoewUc4x61cvfj6EmDkEHlkU13j1d9Hym6TMbUewg1nwTgR6p34kYsZHWkr4c6xSy-OeD1-HKqJNk12scvAcEsXXohWUSYmswpsvJFX2uoT8g__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ##
-##
+## mount unmount
+## 操作系统中的一个超级快数组
+## 吧需要挂载的设备文件系统
 ##
