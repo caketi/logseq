@@ -15,6 +15,7 @@ title: linux-kernel
 ^^映射关系（内存与磁盘之间的映射关系） 应用程序和高速缓存区的交互api 磁盘与高速缓冲区的交互api 高速缓存区的管理系统（循坏列表+哈希表+单链表）^^
 ## 用户与磁盘进行文件交互时的流程
 ## 磁盘与高速缓冲区的关系
+## 加深块设备驱动的理解
 ##
 ## ![2021_02_22_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef473b812396-c0e0-4674-b93f-bbae2e82f2ae2021_02_22_%E5%9B%BE%E7%89%87.png?Expires=4767576846&Signature=Q3vdCvJjjD4RdF1oKSfaojQwEWyOfo0XviEkrRsFL9YLWi~shXh2BhJJkTjrTMYQzTuTwzOdcoAbr4qZPqZXDDg-YuNUXsUxWCLAPTF-iohCwv16pnUnqD389vMou9N~LpPCGuUrZghdaUGUMfGKHV2V-ohKs2Vi2rHgebKYb~RYowue1zu7nVpV0E4laQBezHn7DezS4aqk9H7yucNPXWL23Re4KvKdYZem6EIT6Vq0-QvWfO9FSD~Vvb4-7iYZ4HUxDDPoNKbKDU9~xUhFVSPu97d-1gX50E21qju-55NBR8MHRUcpA5wG0oECLReIqxIACqBw1q32TWswfEngLg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ##
