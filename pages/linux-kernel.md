@@ -16,7 +16,7 @@ title: linux-kernel
 ## 用户与磁盘进行文件交互时的流程
 ## 磁盘与高速缓冲区的关系
 ## 加深块设备驱动的理解
-##
+## hash 循环列表
 ## ![2021_02_22_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef473b812396-c0e0-4674-b93f-bbae2e82f2ae2021_02_22_%E5%9B%BE%E7%89%87.png?Expires=4767576846&Signature=Q3vdCvJjjD4RdF1oKSfaojQwEWyOfo0XviEkrRsFL9YLWi~shXh2BhJJkTjrTMYQzTuTwzOdcoAbr4qZPqZXDDg-YuNUXsUxWCLAPTF-iohCwv16pnUnqD389vMou9N~LpPCGuUrZghdaUGUMfGKHV2V-ohKs2Vi2rHgebKYb~RYowue1zu7nVpV0E4laQBezHn7DezS4aqk9H7yucNPXWL23Re4KvKdYZem6EIT6Vq0-QvWfO9FSD~Vvb4-7iYZ4HUxDDPoNKbKDU9~xUhFVSPu97d-1gX50E21qju-55NBR8MHRUcpA5wG0oECLReIqxIACqBw1q32TWswfEngLg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 ##
 ## ![2021_02_22_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef476f0ed879-3f66-435a-aced-db234d4fd19e2021_02_22_%E5%9B%BE%E7%89%87.png?Expires=4767576367&Signature=VN37kdjZkLbuZfVUC5vdzzoYID7JteQWCzcjbVkhpqQchgT~0~VttfC8fukMtBnpGcr24QH5RBkV1GoFhiP-wygFoAd~Be2VxD3p0PFQHZ8NYvB11HkwxtuwLJ8ftvlRC8Fikhaxhy~A9wWkaT9sbIwf3V2vz14Bl7IY8-VFpNZEwVJYhzjdSjgW2nON5Ap42ZbERAK1biTCCVg2Y-f5qfDIVCpaEJkxD0WJVNnZyRFyY7WgrJ6N-zpqie2LbWSDj9d2sRNozvRyI3eYH3G1hr3Kolf~SoUL1oEjKEYOXp1qNrzusUpFam3FREYT3DeoddSrB-2WrytYF~ManYukVg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 285, :width 626}
