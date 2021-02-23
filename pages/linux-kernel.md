@@ -135,7 +135,14 @@ setup.s
 ## ![image.png](/assets/pages_linux-kernel_1614052141947_0.png)
 ##
 ## ![image.png](/assets/pages_linux-kernel_1614052416103_0.png)
-##
+## ![image.png](/assets/pages_linux-kernel_1614052633067_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614052667942_0.png)
+## 输入 输出 错误 3个标准
+## ![image.png](/assets/pages_linux-kernel_1614052795077_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614052847222_0.png)
+## ^^系统调用 2e软中断 sysentry^^
+## ![image.png](/assets/pages_linux-kernel_1614053669097_0.png) **
+## **
 ##
 ##
 ##
