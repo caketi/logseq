@@ -121,5 +121,11 @@ setup.s
 ##
 ## ll ![image.png](/assets/pages_linux-kernel_1614050273379_0.png)
 ## ![image.png](/assets/pages_linux-kernel_1614050146009_0.png){:height 338, :width 626}
+## ![image.png](/assets/pages_linux-kernel_1614051774951_0.png){:height 222, :width 626}
+## ![image.png](/assets/pages_linux-kernel_1614051779845_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614051790027_0.png){:height 187, :width 626}
+## ![image.png](/assets/pages_linux-kernel_1614051796486_0.png){:height 302, :width 626}
+## vfs fs 文件操作系统 大老板 ![image.png](/assets/pages_linux-kernel_1614051826684_0.png){:height 315, :width 626}
+## ![image.png](/assets/pages_linux-kernel_1614051834346_0.png){:height 393, :width 626}
 ##
 ##
