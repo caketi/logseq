@@ -127,5 +127,15 @@ setup.s
 ## ![image.png](/assets/pages_linux-kernel_1614051796486_0.png){:height 302, :width 626}
 ## vfs fs 文件操作系统 大老板 ![image.png](/assets/pages_linux-kernel_1614051826684_0.png){:height 315, :width 626}
 ## ![image.png](/assets/pages_linux-kernel_1614051834346_0.png){:height 393, :width 626}
+## ![image.png](/assets/pages_linux-kernel_1614052002172_0.png)
+## 存在疑问：mtime创建时间 ctime修改时间
+:PROPERTIES:
+:background_color: #497d46
+:END:
+## ![image.png](/assets/pages_linux-kernel_1614052141947_0.png)
+##
+## ![image.png](/assets/pages_linux-kernel_1614052416103_0.png)
+##
+##
 ##
 ##
