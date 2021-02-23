@@ -149,5 +149,22 @@ setup.s
 ## ![image.png](/assets/pages_linux-kernel_1614056377803_0.png){:height 296, :width 626}
 ## ![image.png](/assets/pages_linux-kernel_1614056791558_0.png)
 ##
-## ![image.png](/assets/pages_linux-kernel_1614057332281_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614057332281_0.png){:height 287, :width 626}
+## ![image.png](/assets/pages_linux-kernel_1614058083375_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614058469049_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614058637281_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614058684494_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614070563175_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614071430467_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614071765038_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614072083425_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614072201776_0.png)
+## 用户态切换到内核态
+## ![image.png](/assets/pages_linux-kernel_1614072726632_0.png)
+## ^^fd -- 文件句柄^^
+:PROPERTIES:
+:background_color: #497d46
+:END:
+## ![image.png](/assets/pages_linux-kernel_1614073531070_0.png)
+##
 ##
