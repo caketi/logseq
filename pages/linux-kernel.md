@@ -142,7 +142,8 @@ setup.s
 ## ![image.png](/assets/pages_linux-kernel_1614052847222_0.png)
 ## ^^系统调用 2e软中断 sysentry^^
 ## ![image.png](/assets/pages_linux-kernel_1614053669097_0.png) **
-## **
+## ![image.png](/assets/pages_linux-kernel_1614054023327_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614054403213_0.png)
 ##
 ##
 ##
