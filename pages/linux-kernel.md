@@ -108,7 +108,7 @@ setup.s
 ## ![2021_02_22_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef4714e64854-a22e-4586-a0d3-8017a4887c572021_02_22_%E5%9B%BE%E7%89%87.png?Expires=4767601985&Signature=j2IlsC0ENBuiPd7yX1OfL0B1hhxhjt9r3xz2rWyMtFHvo9s5yiQohBtEOkqzxaYEF~o14d7hYQH-E5s~s3ND6NipfM4KDI3~bTcgWgr3j-oBdukV7VWTmrEfHvmq-7UQbqRxod2lZYhyWafHZ7iq1p4kIQV-5qD2OCXzWKR5Ro2TmQtwswO7DgzI1JPcyZ2DDNoR7eQf92A7JDnwahOn4aDLd8-8fedJ2H3JUcBxlkXsbJIULOdmpdzad84KETweZyy~7EJVTlURT-dSUtxGE8sKGUIYVcs79MRp-lASXFV7PXU7Q~KSGev4PHwktqKqi6b9TTCGGdFURAQQ4BcRfw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 23, :width 431}
 ## ![2021_02_22_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef4776541c00-04d2-4919-b0a9-7085d0a3bb612021_02_22_%E5%9B%BE%E7%89%87.png?Expires=4767602063&Signature=M6akKkEW0eHIWSUb0pfBZPzt~hIBJI9EIVw6GLKog9jNXdN6d9Dj2Rz~RcAscLGfiwxb2JeKjP4CeCPXViETSLiAeuiaCPhbPlv34uryFEEbmKoTj9mXfPQQPZbKtCiWEdAidPkkr2zFeq9TPR9-5mGtQ1XrOvpAvF67fiGEGxRZwqLQ-~O2KDmWGWNY5iaq3524pyDhV5fqi2uUSli4o0DJhR6JH4carS0DBhGw5ffBuN7DQFqOZVBa298vYnM5z4i7K5gGB-YHk4d~Z4K4I-7cwy1tK-I9YOLlshkLH0bCpgbHPJVsz6X8VS3pRhX8O4BFRYw0wkWAmPI-V0cJlw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 38, :width 433}
 ## ![2021_02_22_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef4705548eff-ff11-4dab-800c-09bfd49767872021_02_22_%E5%9B%BE%E7%89%87.png?Expires=4767602412&Signature=M86WcFHhFEFLnfgf9CX1sk~qDA~qYx7-NE~Bwa4lw5yuOlSOinrT2WqXlh6M9ofz109~Xl939Dmkzki~PnXW2gvAcnNEH6OYPY6QZtg38zKY7yA3FMRdpXwHIDRRAAxmwBs~NMnnMww8cLjrAI8YwkuWVv-mAadvHGgvtFUSHqnaz0Lxd7ZqZMhb3XVJc5PcvZRJNJmCo8kSUwOTBWuIihhAmRy1kRgy~759WXfk3QOeUK1es82myTzVSTVeoteFYWGYzlFJ5kI5jzKkNS6DaIQdFMBtcSajWST8gO6khT2goBknJlz~hw7tlQSEBN5Jj4-tbmhbyoTFMe7I8MzPlQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 161, :width 471}
-## ![2021_02_22_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef477bfbc7ff-8d79-4797-8da8-f9a454dee69f2021_02_22_%E5%9B%BE%E7%89%87.png?Expires=4767602581&Signature=YxiY~NpbOCjdQ-v8pvilcutfgTyR4MrQFs6eT58JRN-5xOmy5PMtWDpRpvtAlKLHGO7kcVAHvpE6e-TPqmYbwMS-23EwlrGXmk9f~wnxOLV3SSX9cJ7Woq~4KIrIvXFhPrmE9JHVtByVmJ7VBj6Bi7-GSgaQgjVK64qgf1fSpln3rWu2S~ZgTl7LMcdGGxu00-3qiXOb05sTaDupmDVDjobWupKW8xvn4~yV8gH-2-682wo3iTuPEmACcX-VqksOV8i5gWWSV5DzSaxo8HoL1IZl1uKU5prX80hhRahTzKiaq~bKNiZaBiuN37m8TAPO19MxRidYx7f4N9CeTbqSPQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+## ![2021_02_22_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef477bfbc7ff-8d79-4797-8da8-f9a454dee69f2021_02_22_%E5%9B%BE%E7%89%87.png?Expires=4767602581&Signature=YxiY~NpbOCjdQ-v8pvilcutfgTyR4MrQFs6eT58JRN-5xOmy5PMtWDpRpvtAlKLHGO7kcVAHvpE6e-TPqmYbwMS-23EwlrGXmk9f~wnxOLV3SSX9cJ7Woq~4KIrIvXFhPrmE9JHVtByVmJ7VBj6Bi7-GSgaQgjVK64qgf1fSpln3rWu2S~ZgTl7LMcdGGxu00-3qiXOb05sTaDupmDVDjobWupKW8xvn4~yV8gH-2-682wo3iTuPEmACcX-VqksOV8i5gWWSV5DzSaxo8HoL1IZl1uKU5prX80hhRahTzKiaq~bKNiZaBiuN37m8TAPO19MxRidYx7f4N9CeTbqSPQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 410, :width 626}
 ## super.c**super.c**
 ## 1.对设备的超级快进行操作（获取 读取 释放）
 ## ^^get_super put_super read_super^^
@@ -177,7 +177,29 @@ setup.s
 ## ![image.png](/assets/pages_linux-kernel_1614075008599_0.png)
 ## ![image.png](/assets/pages_linux-kernel_1614075315933_0.png)
 ## ![image.png](/assets/pages_linux-kernel_1614075456599_0.png){:height 334, :width 626}
-## ![image.png](/assets/pages_linux-kernel_1614075488702_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614075488702_0.png){:height 273, :width 626}
+## ![image.png](/assets/pages_linux-kernel_1614076330733_0.png)
+## ^^4k -- 12位^^
+## ![image.png](/assets/pages_linux-kernel_1614076380709_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614077159891_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614078422082_0.png)
+## ^^windows蓝屏一种进程^^
+## ![image.png](/assets/pages_linux-kernel_1614079295450_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614080372160_0.png) 一个页目录项---4 int
+## ![image.png](/assets/pages_linux-kernel_1614080404602_0.png) ![image.png](/assets/pages_linux-kernel_1614080516381_0.png){:height 462, :width 626}
+## ![image.png](/assets/pages_linux-kernel_1614080606744_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614081202777_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614081387836_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614082497051_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614083377060_0.png)
+## ** ![image.png](/assets/pages_linux-kernel_1614083517242_0.png)
+## ** ![image.png](/assets/pages_linux-kernel_1614083684081_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614083849411_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614083870477_0.png)
+##
+##
+##
+##
 ##
 ##
 ##
