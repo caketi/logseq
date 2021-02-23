@@ -144,6 +144,10 @@ setup.s
 ## ![image.png](/assets/pages_linux-kernel_1614053669097_0.png) **
 ## ![image.png](/assets/pages_linux-kernel_1614054023327_0.png)
 ## ![image.png](/assets/pages_linux-kernel_1614054403213_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614055394828_0.png){:height 543, :width 626}
 ##
+## ![image.png](/assets/pages_linux-kernel_1614056377803_0.png){:height 296, :width 626}
+## ![image.png](/assets/pages_linux-kernel_1614056791558_0.png)
 ##
+## ![image.png](/assets/pages_linux-kernel_1614057332281_0.png)
 ##
