@@ -166,5 +166,19 @@ setup.s
 :background_color: #497d46
 :END:
 ## ![image.png](/assets/pages_linux-kernel_1614073531070_0.png)
+## 逻辑地址： 空头支票
+## 虚拟内存概念
+## ![image.png](/assets/pages_linux-kernel_1614074149519_0.png) 】
+## ![image.png](/assets/pages_linux-kernel_1614074308689_0.png){:height 382, :width 626} 逻辑地址映射到物理地址，^^内存一页为单位存在 一页4k^^
+## 提供给进程远比物理内存大得多的内存
+## 有效管理物理内存，病把零散的内存也映射给完整的虚拟内存
+## ![image.png](/assets/pages_linux-kernel_1614074557028_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614074811508_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614075008599_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614075315933_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614075456599_0.png){:height 334, :width 626}
+## ![image.png](/assets/pages_linux-kernel_1614075488702_0.png)
+##
+##
 ##
 ##
