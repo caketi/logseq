@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ffcbc1ccb94133bc",
+        "id": "65a22bbed7a61dcd",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "pages/数据库.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -53,6 +56,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "709fcca2964eb8a8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -74,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/数据库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,13 +104,62 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "45a6844183e4ce25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pages/数据库.md"
+              }
+            }
+          },
+          {
+            "id": "9541f738f64a9c67",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f78990e82b9a573",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "6a898b782b72aa97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d72dd71e2cdb5559",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "pages/数据库.md",
+    "pages/反序列化.md",
+    "pages/靶场.md",
+    "pages/5357端口.md",
+    "journals/2021_01_31.md",
+    "pages/jvm.md",
+    "journals/2021_02_03.md",
+    "journals/2021_02_16.md"
+  ]
 }
