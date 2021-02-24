@@ -6,7 +6,9 @@ title: bufferoverflow
 ## https://mks.tw/[https://mks.tw/](https://mks.tw/)
 ## [https://anee.me/intro-to-pwn-65876c0cb558](https://anee.me/intro-to-pwn-65876c0cb558)
 ##
-##
+## ![image.png](/assets/pages_bufferoverflow_1614157634031_0.png)
+## ![image.png](/assets/pages_bufferoverflow_1614157762043_0.png)
+## ![image.png](/assets/pages_bufferoverflow_1614157865448_0.png)
 ##
 ## 大于6个参数，压入栈
 ## ![2021_02_07_图片.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef47a8f69e3f-1f0b-4a3a-b395-83948993741e2021_02_07_%E5%9B%BE%E7%89%87.png?Expires=4766273523&Signature=e60hPn4~Ci9XBtn2EYl7MkB3NsQdDIfFFfJmA5uJWsYiex7sByhnaI1z~Qhio11GaH3TRe9cGu1FUElptcM4fLIWSzNEE38jzsFkeuQFWBxVpRfUIXl8FWLYLcIU0ZlGlu7FiYfATFCu9eYCVeGUfasOGuV6NHXvBQ06h7YclM-TEFYMpDmtiYa3T5evpySBOi-6Unbv25WQIchoFn52~qwqU-AamE~g02WwSxYhKvYb2NmNXzMdxKhUS7SYX~XL8O~2-OtyXZ12wCYjCxkNwG1zee2PNCnoL6AkVwDrdjDNkYvjPv4i78Iju3q-GvIaAIX9rwu3bOPEljOyDw0wXg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
