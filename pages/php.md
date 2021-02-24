@@ -2,6 +2,22 @@
 title: php
 ---
 
+## ![image.png](/assets/pages_php_1614139325587_0.png){:height 314, :width 626} ![image.png](/assets/pages_php_1614139328505_0.png){:height 314, :width 626} ![image.png](/assets/pages_php_1614139120585_0.png){:height 396, :width 626}
+## ![image.png](/assets/pages_php_1614139408652_0.png)
+## ![image.png](/assets/pages_php_1614139468404_0.png)
+## ![image.png](/assets/pages_php_1614139495050_0.png)
+## ![image.png](/assets/pages_php_1614139789246_0.png){:height 329, :width 626} ![image.png](/assets/pages_php_1614139950455_0.png) ![image.png](/assets/pages_php_1614140080092_0.png){:height 330, :width 626} ![image.png](/assets/pages_php_1614140111505_0.png)
+## ![image.png](/assets/pages_php_1614140606676_0.png)
+## ![image.png](/assets/pages_php_1614140673121_0.png) ![image.png](/assets/pages_php_1614140782375_0.png) ![image.png](/assets/pages_php_1614140795987_0.png) ![image.png](/assets/pages_php_1614140899274_0.png) ![image.png](/assets/pages_php_1614141561053_0.png)
+## ![image.png](/assets/pages_php_1614142096434_0.png)
+## ![image.png](/assets/pages_php_1614142262760_0.png) ![image.png](/assets/pages_php_1614142584968_0.png)
+## ![image.png](/assets/pages_php_1614139222540_0.png)
+## ![image.png](/assets/pages_php_1614142854909_0.png)
+## ![image.png](/assets/pages_php_1614142942794_0.png){:height 336, :width 626}
+## ![image.png](/assets/pages_php_1614143037876_0.png)
+## ![image.png](/assets/pages_php_1614143059959_0.png) ![image.png](/assets/pages_php_1614143993001_0.png) ![image.png](/assets/pages_php_1614144355559_0.png)
+##
+##
 ## isset----布尔值0,1
 ## var_dump
 ## gettype
