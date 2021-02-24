@@ -198,10 +198,10 @@ setup.s
 ## ![image.png](/assets/pages_linux-kernel_1614083870477_0.png){:height 511, :width 626}
 ## ** ![image.png](/assets/pages_linux-kernel_1614086452565_0.png){:height 394, :width 626} **
 ## ![image.png](/assets/pages_linux-kernel_1614087209717_0.png)
-## ![image.png](/assets/pages_linux-kernel_1614158801258_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614158801258_0.png){:height 323, :width 626} ![image.png](/assets/pages_linux-kernel_1614166671650_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614166378503_0.png){:height 318, :width 626}
 ##
-##
-##
+## ![image.png](/assets/pages_linux-kernel_1614166485814_0.png) ![image.png](/assets/pages_linux-kernel_1614166626774_0.png)
 ##
 ##
 ##
