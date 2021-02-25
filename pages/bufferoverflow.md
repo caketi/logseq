@@ -5,6 +5,7 @@ title: bufferoverflow
 ## [https://d0nut.medium.com/week-13-introduction-to-buffer-overflows-5f15c0d5b5c1](https://d0nut.medium.com/week-13-introduction-to-buffer-overflows-5f15c0d5b5c1)
 ## https://mks.tw/[https://mks.tw/](https://mks.tw/)
 ## [https://anee.me/intro-to-pwn-65876c0cb558](https://anee.me/intro-to-pwn-65876c0cb558)
+## ![image.png](/assets/pages_bufferoverflow_1614227591613_0.png) ![image.png](/assets/pages_bufferoverflow_1614227615399_0.png)
 ##
 ## ![image.png](/assets/pages_bufferoverflow_1614157634031_0.png)
 ## ![image.png](/assets/pages_bufferoverflow_1614157762043_0.png)

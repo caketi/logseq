@@ -2,7 +2,21 @@
 title: linux-kernel
 ---
 
-## ![2021_02_20_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef4729ba0663-a242-444d-bc0e-cac4b7768dd72021_02_20_image.png?Expires=4767434411&Signature=DYd~-Q8aul06YV6hRml0dq17KV2IGGxwjt6MdFXS3ETy9jVXOAc8A0Zx33pQ4Y6oBMo3PZOD-A-q5QXuvOeq-3GXNrBsAa4s-zniMuBgxu93DMoPZZOBfEMnnsFvDNSip8FK-eCrDffz9CfFoAa1PlrgjwSjGCElOboSwRYrHNfcgVz3zUV3erEUU2QpdZXgDPS4jGVLhMTUVq~R6hMbc~3dUOMxzrfxOdMwVzoyRoWuYB8sJFOnozgUqjq6duhRma1lPa6Z92Euyzv03cBVxNX-DQNZn3QPx84Rc~XqpD8L804rRkKCsgaxo3MLmDEfJHOvM-ljhdKkzy~4mw5TLA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 170, :width 206}
+## **“许多操作系统教材都是重理论而轻实践”，“多数书籍和课程为调度算法耗费大量的时间和篇幅而完全忽略 I/O，其实，前者通常不足一页代码，而后者往往要占到整个系统三分之一的代码总量。”**
+## ^^Linux-0.12 版整个内核源代码只有 463K 字节左右，其中包括的内容基本上都是 Linux 的精髓。^^ ==拿 Linux 0.12 版进行学习也有不足之处。比如该内核版本中尚不包括有关专门的进程等待队列、
+TCP/IP 网络等方面的一些当前非常重要的代码，对内存的分配和使用与现今的内核也有所区别。
+## 简单说明程序的主要用途和目的、输入输出参数以及与其他程
+序的关系，然后列出程序的完整代码并在其中对代码进行详细注释，注释时对原程序代码或文字不作任
+何方面的改动或删除，因为 C 语言是一种英语类语言，程序中原有的少量英文注释对常数符号、变量名
+等也提供了不少有用的信息。，最好是循序渐进地从 1.0 版本开始直到最新的正在开发中的奇数编号的版本。
+## ![image.png](/assets/pages_linux-kernel_1614230389108_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614232006098_0.png) ![image.png](/assets/pages_linux-kernel_1614232441839_0.png) ![image.png](/assets/pages_linux-kernel_1614232515645_0.png) ![image.png](/assets/pages_linux-kernel_1614232608021_0.png) ![image.png](/assets/pages_linux-kernel_1614232721020_0.png)
+## **CPU 通过地址线、数据线和控制信号线组成的本地总线（或称为内部总线）与系统其他部分进行数据通信。地址线用于提供内存或I/O设备的地址，即指明需要读/写数据的具体位置。数据线用于在 CPU 和内存或 I/O 设备之间提供数据传输的通道，而控制线则负责指挥执行的具体读/写操作。对于使用 80386 CPU 的 PC 机，其内部地址线和数据线都分别有 32 根，即都是 32 位的。因此地址寻址空间范围有 232 字节，从 0 到 4GB**
+##
+## ^^/proc/ioports ^^ ![image.png](/assets/pages_linux-kernel_1614229849878_0.png) ![image.png](/assets/pages_linux-kernel_1614229883711_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614229747412_0.png){:height 485, :width 626} ![image.png](/assets/pages_linux-kernel_1614229617498_0.png){:height 24, :width 251} ![image.png](/assets/pages_linux-kernel_1614229641109_0.png){:height 29, :width 257}
+## **通常一个 I/O 控制器包含访问数据的数据端口、输出命令的命令端口访问控制器执行状态的状态端口。端口地址的设置方法一般有两种：统一编址和独立编址。**
+## ![2021_02_20_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef4729ba0663-a242-444d-bc0e-cac4b7768dd72021_02_20_image.png?Expires=4767434411&Signature=DYd~-Q8aul06YV6hRml0dq17KV2IGGxwjt6MdFXS3ETy9jVXOAc8A0Zx33pQ4Y6oBMo3PZOD-A-q5QXuvOeq-3GXNrBsAa4s-zniMuBgxu93DMoPZZOBfEMnnsFvDNSip8FK-eCrDffz9CfFoAa1PlrgjwSjGCElOboSwRYrHNfcgVz3zUV3erEUU2QpdZXgDPS4jGVLhMTUVq~R6hMbc~3dUOMxzrfxOdMwVzoyRoWuYB8sJFOnozgUqjq6duhRma1lPa6Z92Euyzv03cBVxNX-DQNZn3QPx84Rc~XqpD8L804rRkKCsgaxo3MLmDEfJHOvM-ljhdKkzy~4mw5TLA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 105, :width 206}
 ## ![2021_02_20_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef4792502267-d22b-44e6-b726-da452c0d90262021_02_20_image.png?Expires=4767434681&Signature=WqMKFvfTnuRv0mQ-ABw2FctE2vtHB9HXV~wtDUyRpmVud5ZLsKcF5E0PTigkB13AlcMhIXL5Xi5TQnw7~Ga1Y2UNFlP8~hlNLPFuwb1h4vus-ddwuqMcaDNFEucnxz1S2OEhM-NWQ~0rbxcwSxiSH22bzR5OksGmlUqfZRyyHIPfi5jnvhbsIgVZtgoukzT4vdw5lCxnPLBUDQ2N-ybT8OKYl1raRuD1JjdUfBZGvQcMsiwggcunyHVAsFyqGhcqnT9vjMxDSyAKI8WtQZqzLEq3eYdvCkJIAxwK4pfA272GPI0WdT~pj5FY85zlMsgW0VS9gakzcziuM5tYmwNqNg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 122, :width 260}
 ## ![2021_02_20_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef47971cc4d6-97d9-4b3e-bf88-bea1ff36ceea2021_02_20_image.png?Expires=4767435390&Signature=jwSUleyk4sS4rq6eAO5RmpTbxx5oGKirjHPMfO9PDVzLtL3pDN4OJValVLUSFWKc2epGQwtyky54WeG~ZDgNAEVrnhd713zP2nXXXQxepbo-thbFsuPVRoHUZ5g7f7ITno4-KyNgGhQUPDx5ZG31k85md-SK3EN193UOwyygeQkPwUifcYBR4NMK7klqofRKJzmcZTIaxlXOyVJiOXtRE5oFNBPkAfkNU6FNpI5nD19Ck-mp9aTvZTAHOHqhrVPBnedFbs9dfaK9ZZgjKB8kZc1eb~eYXqDO6N~oWNe4RoX~PkVyqRWOwjQkmMfrgcnrcIWJb1WHF1KPV4d1I4YsHg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 117, :width 63}
 ## ![2021_02_20_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef4777d390ca-7f5e-48f5-bafb-ec5042cef9fd2021_02_20_image.png?Expires=4767435720&Signature=fhV3x~~OnZ~zvWxxiQRXL1ocrf~WJLzpS8oxethftV1nyvOmQN-qnwGlB~hgQsg~3twVKHP72r6frs~HToWET0qej94r-kWwkN1dXclnx03NUmXrO6M6v-847rLKoViYnhbngL9-y3zx493wIvtfEqvWBvgN-FALeUwvU2H-ZZY9PZqynwWKHJv3yt2OA9MDyJmSnCRE-hIFGIo9FLWFjFqUH3WoGkKG1Va5J8HDGR8n~Flzwiz-bumLE~Fr4GTDKnYHc15TIMrbj10gTO~bdfrNvN5LUH4h0vkReV0M12eVNIkzeOXaLwOWvEAylBUPNLwVE2Hihpw2eczwQ5JKzg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 73, :width 168}
