@@ -11,8 +11,8 @@ getstatic putstatic invokestatic 反射（Class.forName("com.test.t") 初始化�
 被动使用
 ## ^^类的加载--.class->内存-运行时数据区的方法区中，内存中创建一个java.lang.Class对象（封装类在方法区内的数据结构）^^ ![image.png](/assets/pages_jvm_1614261161716_0.png) ![image.png](/assets/pages_jvm_1614261422811_0.png) ![image.png](/assets/pages_jvm_1614261819295_0.png)
 ## ^^final 常量--->类的常量池当中^^ ![image.png](/assets/pages_jvm_1614262072348_0.png)
-## ![image.png](/assets/pages_jvm_1614260024725_0.png)
-##
+## ![image.png](/assets/pages_jvm_1614260024725_0.png){:height 370, :width 626}
+## ![image.png](/assets/pages_jvm_1614262428015_0.png)
 ##
 ##
 ##
