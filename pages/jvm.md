@@ -2,12 +2,13 @@
 title: jvm
 ---
 
+## classLoader 源码 doc
 ## ^^JAVA,类型的加载、链接、初始化--->runtime^^
 ## 加载：查找并加载类的二进制数据
 ## 链接：验证（确保被加载类的正确）、准备（为类的静态变量分配内存，初始化为默认值）、解析（类的符号引用->直接引用）
 ## 初始化：为类的静态变量赋值初始化
 ## 类的使用：首次主动使用 ^^7中^^new, 访问类或接口的静态变量，赋值，调用类的静态方法
-getstatic putstatic invokestatic 反射（Class.forName("com.test.t") 初始化一个类的子类 ![image.png](/assets/pages_jvm_1614260950025_0.png) ^^都会导致类的初始化^^
+getstatic putstatic invokestatic 反射（Class.forName("com.test.t") 初始化一个类的子类 ![image.png](/assets/pages_jvm_1614310457526_0.png) ![image.png](/assets/pages_jvm_1614310641420_0.png) ![image.png](/assets/pages_jvm_1614311474453_0.png) ![image.png](/assets/pages_jvm_1614260950025_0.png){:height 370, :width 626} ^^都会导致类的初始化^^
 被动使用
 ## ^^类的加载--.class->内存-运行时数据区的方法区中，内存中创建一个java.lang.Class对象（封装类在方法区内的数据结构）^^ ![image.png](/assets/pages_jvm_1614261161716_0.png) ![image.png](/assets/pages_jvm_1614261422811_0.png) ![image.png](/assets/pages_jvm_1614261819295_0.png)
 ## ^^final 常量--->类的常量池当中^^ ![image.png](/assets/pages_jvm_1614262072348_0.png)
@@ -16,7 +17,7 @@ getstatic putstatic invokestatic 反射（Class.forName("com.test.t") 初始化�
 ## ![image.png](/assets/pages_jvm_1614263249004_0.png) ![image.png](/assets/pages_jvm_1614263396865_0.png) ![image.png](/assets/pages_jvm_1614263634984_0.png) ![image.png](/assets/pages_jvm_1614263648460_0.png)
 ## ^^当一个接口在初始化时，并不要求其父接口都完成了初始化^^
 **只有在真正使用到父接口的时候（如引用接口中所定义的常量时），才会初始化**
-## ![image.png](/assets/pages_jvm_1614264630030_0.png) ![image.png](/assets/pages_jvm_1614264731106_0.png) ![image.png](/assets/pages_jvm_1614264935131_0.png) ![image.png](/assets/pages_jvm_1614264951467_0.png) ![image.png](/assets/pages_jvm_1614268993393_0.png) ![image.png](/assets/pages_jvm_1614269078750_0.png) ![image.png](/assets/pages_jvm_1614269088892_0.png) ![image.png](/assets/pages_jvm_1614269117853_0.png) ![image.png](/assets/pages_jvm_1614269131344_0.png) ![image.png](/assets/pages_jvm_1614269172304_0.png) ![image.png](/assets/pages_jvm_1614269184522_0.png) ![image.png](/assets/pages_jvm_1614269309122_0.png) ![image.png](/assets/pages_jvm_1614269366106_0.png) ![image.png](/assets/pages_jvm_1614269378113_0.png) ![image.png](/assets/pages_jvm_1614269442105_0.png) ![image.png](/assets/pages_jvm_1614269499269_0.png) ![image.png](/assets/pages_jvm_1614269810640_0.png) ![image.png](/assets/pages_jvm_1614270648280_0.png) ![image.png](/assets/pages_jvm_1614270705512_0.png) ![image.png](/assets/pages_jvm_1614271028792_0.png) ![image.png](/assets/pages_jvm_1614272277645_0.png) ![image.png](/assets/pages_jvm_1614272676983_0.png) ![image.png](/assets/pages_jvm_1614272878250_0.png) ![image.png](/assets/pages_jvm_1614273169055_0.png)
+## ![image.png](/assets/pages_jvm_1614264630030_0.png) ![image.png](/assets/pages_jvm_1614264731106_0.png) ![image.png](/assets/pages_jvm_1614264935131_0.png) ![image.png](/assets/pages_jvm_1614264951467_0.png) ![image.png](/assets/pages_jvm_1614268993393_0.png) ![image.png](/assets/pages_jvm_1614269078750_0.png) ![image.png](/assets/pages_jvm_1614269088892_0.png) ![image.png](/assets/pages_jvm_1614269117853_0.png) ![image.png](/assets/pages_jvm_1614269131344_0.png) ![image.png](/assets/pages_jvm_1614269172304_0.png) ![image.png](/assets/pages_jvm_1614269184522_0.png) ![image.png](/assets/pages_jvm_1614269309122_0.png) ![image.png](/assets/pages_jvm_1614269366106_0.png) ![image.png](/assets/pages_jvm_1614269378113_0.png) ![image.png](/assets/pages_jvm_1614269442105_0.png) ![image.png](/assets/pages_jvm_1614269499269_0.png) ![image.png](/assets/pages_jvm_1614269810640_0.png) ![image.png](/assets/pages_jvm_1614270648280_0.png) ![image.png](/assets/pages_jvm_1614270705512_0.png) ![image.png](/assets/pages_jvm_1614271028792_0.png) ![image.png](/assets/pages_jvm_1614272277645_0.png) ![image.png](/assets/pages_jvm_1614272676983_0.png) ![image.png](/assets/pages_jvm_1614272878250_0.png) ![image.png](/assets/pages_jvm_1614273169055_0.png) ![image.png](/assets/pages_jvm_1614309188118_0.png) ![image.png](/assets/pages_jvm_1614309414204_0.png) ![image.png](/assets/pages_jvm_1614309482585_0.png)
 ##
 ##
 ##
