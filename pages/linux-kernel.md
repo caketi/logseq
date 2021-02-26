@@ -75,7 +75,7 @@ TCP/IP 网络等方面的一些当前非常重要的代码，对内存的分配�
 ## ![2021_02_21_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef4742e18b12-2636-4e15-9631-39c9e0cd6ab62021_02_21_image.png?Expires=4767473134&Signature=dIUJfWXYn9R3OnezqZMtlOhuwemJtLWBZNG07Qm45RJT6k0-YvwElesF8ZLOnQ95Od1vTKCczsr8DX7kkpNxSnXEjexKWeKWI3dV6xNO~RdSXe2IJ24BR527QO3TkmwSm1d03~06huW5GzZikSZSZWRjZxNZEMg8ghWIH3aZVo5JUzNDCs2oxVBc4b0wdiO9Zov0MGq90pr3TCKjFzj2rg9z0~aPJheQSoVpxpYoTiiQWoxPneyh0zuiP3vpt4AeLTzPVl6NfMyu40lONF~0m~4UewTFwDUfDgwdR0DVnHnLeHX44eoy33C5j-jfNzG1PSRCSsbe5Gzt6o60~OeOHg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 44, :width 573}
 ##
 ## ![2021_02_21_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef473a19795d-cc62-4c4b-8ef5-5edb88edd8792021_02_21_image.png?Expires=4767475223&Signature=JgjRfdDH2cw7N8SOUw3rLBpG8r-E9fQrsS-8Vy1-FSBLmUogHH1wVPr0rD-um7akMCZH3CB1OJO9ZZlqEL7FuzwPRT7eUl~T093HLxb1dCqS4~Xvf4Qq3HQ2XG4izeBIV188NInRVLAr6LFAXXZJSdvW5rih8z~4Jc9CAvT3Lj6VkYxyvdGJDS5MTOyI5-Z6mZQA3jIaV1MFxawnsZqn0oyK2jM-9RMlcTQNAvzH1b0uX1aOKOCh3JjQbj~~FbpF0Oprj~xzYgigfevj0wmya7j45pDT3ZNcopEXMgGxiBRPTRYTuZpj6qH9s6E7t~qUkVnnCt-ZfvIFQ3COw4Hr2g__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 39, :width 583}
-## ![2021_02_21_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef47f242af6d-cc09-406c-8010-f2f08ac3d7452021_02_21_image.png?Expires=4767475401&Signature=fB~RjuG1b4fdLNfDWvlcrY9Z4KgrpozRpmgk03HzGjBlfnJ6GcXHXLuMVlFPHrjoxwRzPPJMFEPp1OhdBuS2gJFRTF5iqO4UHY98efL5pzhuyjPw7Y~ZMlKnlXHqC7hiWYWnGlyAwpq5a8xKsaLxaQuxmSFYOEQTYWkD4c3NcCfwDJOl1nXMySz~BHb1v4HRa0yq8NJc~gClKlIVbbXQ6ygr7s5m21A5sza9CvPdSTtY54oObQxdqzhYo0ccKxjzMC7tpQy9ijlVId56Q0pHA-mq6aaMjf~9Lx1Y95EkkqD0yKsUWZXoysRp9gEplZlB1mVOefbsO-xOutVm1mGaCQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 36, :width 571}
+## ![2021_02_21_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef47f242af6d-cc09-406c-8010-f2f08ac3d7452021_02_21_image.png?Expires=4767475401&Signature=fB~RjuG1b4fdLNfDWvlcrY9Z4KgrpozRpmgk03HzGjBlfnJ6GcXHXLuMVlFPHrjoxwRzPPJMFEPp1OhdBuS2gJFRTF5iqO4UHY98efL5pzhuyjPw7Y~ZMlKnlXHqC7hiWYWnGlyAwpq5a8xKsaLxaQuxmSFYOEQTYWkD4c3NcCfwDJOl1nXMySz~BHb1v4HRa0yq8NJc~gClKlIVbbXQ6ygr7s5m21A5sza9CvPdSTtY54oObQxdqzhYo0ccKxjzMC7tpQy9ijlVId56Q0pHA-mq6aaMjf~9Lx1Y95EkkqD0yKsUWZXoysRp9gEplZlB1mVOefbsO-xOutVm1mGaCQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 381, :width 571}
 ## ![2021_02_21_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef472049d9e5-c86a-4ed4-85ce-47651751bf8c2021_02_21_image.png?Expires=4767475579&Signature=AG8LnLVvMPgoKREaqBbmygGAZr7jDSBOq~qTRef-RpEzVM57~MQ0uCj5HTapvB4aFD3eZzhycrhRurW6nmaejbo3Q~icOeiUVSFjNWXTVzafmucLQ5jEUAJMLmQfV~WmQVCg2aAm~TGXc73j0aV23tBPst0VcgSs7RnUN3utfeZqRncbyH4MiaF5dO0FA04OJTjhzUmDkdq3QukmqbnzY-ub~7MYgfSsQlg8z9jEwedAtF8MTRHkSu-ALCcbnhHUFGuPa8sXRSKDt9OCVbAC9b8p6O7rbRkqCHLrhJl-CTJhKk77b0nPBy5dwK3m3su-eDQun4zLM0VJXd9JMQL0rA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 310, :width 560}、
 ### BIOS BOOTLOADER
 ^^**1. Linux操作系统的引导**^^
@@ -136,6 +136,7 @@ setup.s
 ##
 ## ll ![image.png](/assets/pages_linux-kernel_1614050273379_0.png)
 ## ![image.png](/assets/pages_linux-kernel_1614050146009_0.png){:height 338, :width 626}
+<<<<<<< Updated upstream
 ## ![image.png](/assets/pages_linux-kernel_1614051774951_0.png){:height 222, :width 626}
 ## ![image.png](/assets/pages_linux-kernel_1614051779845_0.png)
 ## ![image.png](/assets/pages_linux-kernel_1614051790027_0.png){:height 187, :width 626}
@@ -219,4 +220,22 @@ setup.s
 ## ![image.png](/assets/pages_linux-kernel_1614166485814_0.png) ![image.png](/assets/pages_linux-kernel_1614166626774_0.png)
 ##
 ## vscode://vscode.github-authentication/did-authenticate?windowid=1&code=5cb2b80308350ef16efc&state=dd83f6fa-4b1b-4609-b23b-7b4f583fe4f6
+=======
+##
+## VFS FS
+## ^^文件操作系统是个大老板啊^^
+:PROPERTIES:
+:background_color: #978626
+:END:
+## ![image.png](/assets/pages_linux-kernel_1614051064149_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614051195767_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614051289931_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614051296603_0.png)
+## ![image.png](/assets/pages_linux-kernel_1614051559568_0.png)
+##
+## ![image.png](/assets/pages_linux-kernel_1614051638316_0.png){:height 218, :width 610}
+##
+##
+##
+>>>>>>> Stashed changes
 ##
