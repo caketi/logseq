@@ -6,6 +6,8 @@ title: blog-收集
 ## [http://binmake.com/](http://binmake.com/)
 ## https://www.cnblogs.com/masses0x1/articles/14433241.html
 ## https://mp.weixin.qq.com/s/Pk08ibMptt5q5NGt4FrsGA
+## https://mrxn.net/
+## https://lgf.im/posts/security/reverse/xray-cracker/
 ##
 ## https://n0vice.top/
 ## [https://blog.nickbulljs.com/](https://blog.nickbulljs.com/)
