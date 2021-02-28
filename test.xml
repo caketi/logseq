@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE pwn[
-    <!ENTITY % parameter_entity <!ENTITY genral_entity 'pwnfun'>
+    <!ENTITY % parameter_entity "<!ENTITY genral_entity 'pwnfun'">
     <!ENTITY genral_entity 'pwnfun'>
      <!ENTITY name "hh">
 ]>
