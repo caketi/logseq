@@ -8,7 +8,10 @@ title: blog-收集
 ## https://mp.weixin.qq.com/s/Pk08ibMptt5q5NGt4FrsGA
 ## https://mrxn.net/
 ## https://lgf.im/posts/security/reverse/xray-cracker/
+## [https://github.com/yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu)
 ##
+##https://sashimi-yzh.github.io/
+http://ics.nju.edu.cn/~jyy/
 ## https://www.tanyugang.com/
 ## https://n0vice.top/
 ## [https://blog.nickbulljs.com/](https://blog.nickbulljs.com/)
