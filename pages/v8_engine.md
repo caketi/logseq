@@ -4,7 +4,8 @@ title: v8 engine
 
 ## ^^https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf^^
 ## [https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
-##
+## http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection
+## https://www.cloudbees.com/blog/understanding-garbage-collection-in-node-js/
 ##
 ##
 ## ![2021_02_15_image.png](https://cdn.logseq.com/%2F7aa8ab99-753a-4230-847b-43a1c3a3ef47ef548036-f6a0-4d60-bce1-4937ce4083a42021_02_15_image.png?Expires=4766956712&Signature=hlLw5q6u-IFsVRD9WX6YQjv-UQ-u0S7jBKrbi3HGV8OzXuoVS6Q9k2g3FBuGqwrO8FtMxHJW4fET~BlxM1Rcffag3a0mMELcMLXF80zYoxHlR~GgnhUB7x18JO0~oiOKuL8GY~6YCEgWUYAwtRS7ap6lupQNoSkSx~eRIcr-PwyKbpDsj9pzhnJZB7iX9gVtR4VCwM9nJL-7qFyUU2YMKyGsjDRFyM9A3npxpLMKSH4LUDYYDQfsARySW5gfsK9P8UvXS1OVRtn5dJ10GjdQzbjzdxbrIDYpa~aflL5r7g9ripqsifKuoxYWKlnwX1Q9G2dPRsLsgpewSQymLe1n~g__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
