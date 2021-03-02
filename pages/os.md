@@ -2,8 +2,10 @@
 title: OS
 ---
 
-## ![image.png](/assets/pages_os_1614613995207_0.png)
+## man pthreads strace ![image.png](/assets/pages_os_1614684369918_0.png) ![image.png](/assets/pages_os_1614684970160_0.png) ![image.png](/assets/pages_os_1614685086024_0.png) ![image.png](/assets/pages_os_1614685456988_0.png) ![image.png](/assets/pages_os_1614685630164_0.png) ![image.png](/assets/pages_os_1614686152282_0.png) ![image.png](/assets/pages_os_1614686180619_0.png) ![image.png](/assets/pages_os_1614686597903_0.png) ![image.png](/assets/pages_os_1614686733685_0.png) ![image.png](/assets/pages_os_1614686742920_0.png)
 ##
+## ![image.png](/assets/pages_os_1614613995207_0.png){:height 438, :width 626}
+## ![image.png](/assets/pages_os_1614681146671_0.png) ![image.png](/assets/pages_os_1614681691452_0.png) ![image.png](/assets/pages_os_1614681753826_0.png) ![image.png](/assets/pages_os_1614681851841_0.png) ![image.png](/assets/pages_os_1614681897721_0.png) ![image.png](/assets/pages_os_1614682127174_0.png)
 ##
 ##
 ##
