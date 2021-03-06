@@ -78,3 +78,4 @@
 ## [[防火墙]]
 ## [[os2]]
 ## [[c++ mm]]
+## [[linux kernel hyperlink]]
