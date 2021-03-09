@@ -16,6 +16,7 @@ public class DateServer {
 
                 client.close();
             }
+           
         }
             catch (IOException ioe){
                 System.out.println(ioe);

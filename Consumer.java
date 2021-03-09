@@ -1,25 +1,15 @@
 public class Consumer extends Thread{
-   
     private int num;
-
-    
-    private Storage storage;
-
-    
+    private Storage storage; 
     public Consumer(Storage storage) {
         this.storage = storage;
     }
-
-  
     public void run() {
         consume(num);
     }
-
-  
     public void consume(int num) {
         storage.consume(num);
     }
-
     public int getNum() {
         return num;
     }
