@@ -522,29 +522,29 @@ new-demo/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\new-demo.dir\build.make CMakeFiles/new-demo.dir/build
 .PHONY : new-demo/fast
 
-main.obj: main.cpp.obj
-.PHONY : main.obj
+test_struct.obj: test_struct.c.obj
+.PHONY : test_struct.obj
 
 # target to build an object file
-main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\new-demo.dir\build.make CMakeFiles/new-demo.dir/main.cpp.obj
-.PHONY : main.cpp.obj
+test_struct.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\new-demo.dir\build.make CMakeFiles/new-demo.dir/test_struct.c.obj
+.PHONY : test_struct.c.obj
 
-main.i: main.cpp.i
-.PHONY : main.i
+test_struct.i: test_struct.c.i
+.PHONY : test_struct.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\new-demo.dir\build.make CMakeFiles/new-demo.dir/main.cpp.i
-.PHONY : main.cpp.i
+test_struct.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\new-demo.dir\build.make CMakeFiles/new-demo.dir/test_struct.c.i
+.PHONY : test_struct.c.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+test_struct.s: test_struct.c.s
+.PHONY : test_struct.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\new-demo.dir\build.make CMakeFiles/new-demo.dir/main.cpp.s
-.PHONY : main.cpp.s
+test_struct.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\new-demo.dir\build.make CMakeFiles/new-demo.dir/test_struct.c.s
+.PHONY : test_struct.c.s
 
 # Help Target
 help:
@@ -586,9 +586,9 @@ help:
 	@echo ... NightlyTest
 	@echo ... NightlyUpdate
 	@echo ... new-demo
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... test_struct.obj
+	@echo ... test_struct.i
+	@echo ... test_struct.s
 .PHONY : help
 
 

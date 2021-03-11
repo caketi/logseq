@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/c/Documents/logseq/main.cpp" "CMakeFiles/new-demo.dir/main.cpp.obj" "gcc" "CMakeFiles/new-demo.dir/main.cpp.obj.d"
+  "C:/Users/c/Documents/logseq/test_struct.c" "CMakeFiles/new-demo.dir/test_struct.c.obj" "gcc" "CMakeFiles/new-demo.dir/test_struct.c.obj.d"
   )
 
 # Targets to which this target links.
