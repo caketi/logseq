@@ -1,7 +1,7 @@
 [
 {
   "directory": "C:/Users/c/Documents/logseq/build",
-  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe   -g -o CMakeFiles\\new-demo.dir\\test_struct.c.obj -c C:\\Users\\c\\Documents\\logseq\\test_struct.c",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe   -O3 -DNDEBUG -o CMakeFiles\\new-demo.dir\\test_struct.c.obj -c C:\\Users\\c\\Documents\\logseq\\test_struct.c",
   "file": "C:/Users/c/Documents/logseq/test_struct.c"
 }
 ]
