@@ -1,6 +1,10 @@
 #include <dirent.h>
 #include <sys/types.h>
 
+struct x={
+  .p = 1;
+}
+
 
 void list_dir(const char *dir_name) {
   DIR *d = opendir(dir_name);
