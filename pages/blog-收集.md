@@ -9,7 +9,7 @@ title: blog-收集
 :later: 1615547811777
 :END:
 ## https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction
-##
+## https://github.com/tinyclub [openbook]
 ##
 ## [http://binmake.com/](http://binmake.com/)
 ## https://www.cnblogs.com/masses0x1/articles/14433241.html
