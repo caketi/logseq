@@ -6,10 +6,15 @@ title: blog-收集
 ## https://descent-incoming.blogspot.com/
 ## LATER https://lotabout.me
 :PROPERTIES:
-:later: 1615547811777
+:now: 1615634237816
+:later: 1615634265888
+:done: 1615634260408
 :END:
 ## https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction
 ## https://github.com/tinyclub [openbook]
+## http://www.rozmichelle.com/pipes-forks-dups/
+## https://blog.regehr.org/
+##
 ##
 ## [http://binmake.com/](http://binmake.com/)
 ## https://www.cnblogs.com/masses0x1/articles/14433241.html
