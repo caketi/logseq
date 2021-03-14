@@ -1,5 +1,6 @@
 {
     "git.ignoreLimitWarning": true,
     "java.configuration.updateBuildConfiguration": "automatic",
-    "C_Cpp.errorSquiggles": "Disabled"
+    "C_Cpp.errorSquiggles": "Enabled",
+    "C_Cpp.intelliSenseEngineFallback": "Enabled"
 }

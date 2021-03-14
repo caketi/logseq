@@ -14,7 +14,7 @@ title: blog-收集
 ## https://github.com/tinyclub [openbook]
 ## http://www.rozmichelle.com/pipes-forks-dups/
 ## https://blog.regehr.org/
-##
+## http://www.dunkels.com/adam/ 独立开发者
 ##
 ## [http://binmake.com/](http://binmake.com/)
 ## https://www.cnblogs.com/masses0x1/articles/14433241.html
