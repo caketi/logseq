@@ -15,7 +15,7 @@ title: blog-收集
 ## http://www.rozmichelle.com/pipes-forks-dups/
 ## https://blog.regehr.org/
 ## http://www.dunkels.com/adam/ 独立开发者
-##
+## http://blog.linux.org.tw/~jserv     ^^super powerful blog Mark^^
 ## [http://binmake.com/](http://binmake.com/)
 ## https://www.cnblogs.com/masses0x1/articles/14433241.html
 ## https://mp.weixin.qq.com/s/Pk08ibMptt5q5NGt4FrsGA
