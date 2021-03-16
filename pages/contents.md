@@ -85,3 +85,4 @@
 >>>>>>> 8dfb76537c5bab45daffd26ebbead9e283692727
 ## [[B站倍速]]
 ## [[bitwise]]
+## [[linux big5]]
