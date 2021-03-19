@@ -87,3 +87,5 @@
 ## [[bitwise]]
 ## [[linux big5]]
 ## [[物理]]
+## [[page cache]]
+## [[cloud compute]]

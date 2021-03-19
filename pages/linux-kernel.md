@@ -2,8 +2,9 @@
 title: linux-kernel
 --- 
 tcp
-
 ## **“许多操作系统教材都是重理论而轻实践”，“多数书籍和课程为调度算法耗费大量的时间和篇幅而完全忽略 I/O，其实，前者通常不足一页代码，而后者往往要占到整个系统三分之一的代码总量。”**
+## ![image.png](../assets/pages_linux-kernel_1616139492873_0.png) ![image.png](../assets/pages_linux-kernel_1616139606073_0.png) ![image.png](../assets/pages_linux-kernel_1616149399860_0.png) ![image.png](../assets/pages_linux-kernel_1616149464486_0.png) ![image.png](../assets/pages_linux-kernel_1616149511156_0.png) ![image.png](../assets/pages_linux-kernel_1616149636388_0.png) ![image.png](../assets/pages_linux-kernel_1616149746993_0.png) ![image.png](../assets/pages_linux-kernel_1616149849604_0.png) ![image.png](../assets/pages_linux-kernel_1616149959515_0.png) ![image.png](../assets/pages_linux-kernel_1616150011261_0.png) ![image.png](../assets/pages_linux-kernel_1616150052265_0.png) ![image.png](../assets/pages_linux-kernel_1616150142151_0.png) ![image.png](../assets/pages_linux-kernel_1616150186506_0.png) ![image.png](../assets/pages_linux-kernel_1616150225058_0.png) ![image.png](../assets/pages_linux-kernel_1616150488024_0.png) ![image.png](../assets/pages_linux-kernel_1616150543308_0.png) ![image.png](../assets/pages_linux-kernel_1616150589269_0.png) ![image.png](../assets/pages_linux-kernel_1616150638081_0.png) ![image.png](../assets/pages_linux-kernel_1616150774726_0.png) ![image.png](../assets/pages_linux-kernel_1616150938029_0.png) ![image.png](../assets/pages_linux-kernel_1616150970633_0.png) ![image.png](../assets/pages_linux-kernel_1616150997510_0.png)
+## ![image.png](../assets/pages_linux-kernel_1616139188766_0.png)
 ## ^^Linux-0.12 版整个内核源代码只有 463K 字节左右，其中包括的内容基本上都是 Linux 的精髓。^^ ==拿 Linux 0.12 版进行学习也有不足之处。比如该内核版本中尚不包括有关专门的进程等待队列、
 TCP/IP 网络等方面的一些当前非常重要的代码，对内存的分配和使用与现今的内核也有所区别。
 ## 简单说明程序的主要用途和目的、输入输出参数以及与其他程
