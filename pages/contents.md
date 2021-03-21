@@ -89,3 +89,8 @@
 ## [[物理]]
 ## [[page cache]]
 ## [[cloud compute]]
+## [[firmware]]
+## [[php-virsus]]
+## [[c vuln in kernel]]
+## [[rtos]]
+## [[rcu]]
