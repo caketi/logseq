@@ -141,6 +141,6 @@ int main(int argc, char **argv)
         RemoveThing(&start, "burgers");
         printf("\nALTERED LIST\n");
         PrintList(&start);
-                
+		
 }   
 
