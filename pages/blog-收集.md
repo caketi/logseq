@@ -17,7 +17,7 @@ title: blog-收集
 ## http://www.dunkels.com/adam/ 独立开发者
 ## http://blog.linux.org.tw/~jserv     ^^super powerful blog Mark^^
 ## [http://binmake.com/](http://binmake.com/)
-##
+## https://www.liwenzhou.com/
 ## http://jashliao.eu/wordpress/
 ##
 ##
