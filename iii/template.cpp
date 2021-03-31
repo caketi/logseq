@@ -1,0 +1,1 @@
+extern template void swap<string>(string &a, string &b)
